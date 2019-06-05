@@ -53,7 +53,7 @@ usage: pam [-h] -f filename [filename ...] [-g] [-m meter] [-C filename]
            [-t number [number ...]] [-T number [number ...]]
            [-n numbers [numbers ...]] [-a number] [-b number]
 ```
-
+![workflow_pam](img/workflow.png)
 
 ### Séléction de fichiers:
 Option `-f` nécessaire pour l'execution permet de choisir le ou les fichiers sur lesquels executer le `pam`.
