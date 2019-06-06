@@ -1,5 +1,12 @@
 # pam - Programme d'Analyse Métrique
 
+
+## Liens associés
+
+Présentation du pam : https://www.github.com/EPgg92/pam_talk
+
+Créer le corpus du pam : https://www.github.com/EPgg92/pam_corpus
+
 ## Pré-requis
 
 Les droits administrateurs sont nécessaires.
