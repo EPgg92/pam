@@ -23,7 +23,7 @@ adéquate selon votre OS.
 Installer les dépendances suivantes avec ces packages:
 
 ```
-sudo pip3 install pandas pyyaml nltk xlsxwritter
+sudo pip3 install pandas pyyaml nltk XlsxWritter
 ```
 
 ## Installation
