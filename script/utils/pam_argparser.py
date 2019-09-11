@@ -15,7 +15,7 @@ def get_pam_argparse():
     parser = argparse.ArgumentParser(
         description='Produce prosodical-metrical analyses of text.')
     selector = parser.add_argument_group(title='Selector',
-                                         description='Differents options'
+                                         description='Different options'
                                          ' to select verses.')
     debug = parser.add_argument_group(title='Configuration',
                                       description=' Options for configuration'
@@ -40,7 +40,7 @@ def get_pam_argparse():
                        help='select an other forms folder',
                        type=str, default='')
     debug.add_argument('-S', '--save_output_format', nargs='+',
-                       help='save outpur in specific format file'
+                       help='save output in a file with one of the following format'
                        ' \'csv\' or \'xslx\' or \'txt\'',
                        choices=['csv', 'xslx', 'txt'], metavar='format',
                        default=[])
@@ -49,25 +49,25 @@ def get_pam_argparse():
     #                    type=argparse.FileType('a+'),
     #                    default=open('log.txt', 'a+'))
     selector.add_argument('-c', '--cesure', nargs='+', metavar='string',
-                          help='select verses which fitting the wanted '
+                          help='select lines which fit the required '
                           'cesure type; if a metrics is define',
                           type=str, default=[])
     selector.add_argument('-t', '--these_meters', nargs='+', metavar='number',
-                          help='select verses which fitting the wanted meter',
+                          help='select lines which fits the required meter',
                           type=int, default=[])
     selector.add_argument('-T', '--not_these_meters', nargs='+',
                           metavar='number',
-                          help='select verses which not fitting'
-                          ' the wanted meter',
+                          help='select lines which do not fitt'
+                          ' the required meter',
                           type=int, default=[])
     selector.add_argument('-n', '--verse_number', nargs='+', metavar='numbers',
-                          help='select only verses by their numbers of line',
+                          help='select lines by their numbering',
                           type=int, default=[])
     selector.add_argument('-a', '--after_verse_number', metavar='number',
-                          help='select only verses under this number',
+                          help='select lines whose numbering is equal of higher to the number indicated',
                           type=int, default=-1)
     selector.add_argument('-b', '--before_verse_number', metavar='number',
-                          help='select only verses upper this number',
+                          help='select lines whose numbering is lower the number indicated',
                           type=int, default=-1)
     args = parser.parse_args()
     if args.cesure != [] and args.metrics == -1:
