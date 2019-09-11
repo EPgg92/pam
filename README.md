@@ -2,18 +2,18 @@
 
 ## Pré-requis
 
-Les droits administrateurs sont nécessaires.
+Les droits d'administration sont nécessaires.
 
-Le `pam` est coder en __python3__:
+Le `pam` est codé en __python3__ :
 
-Installer __python3__ en suivant la documentation officielle sur:
+Installez __python3__ en suivant la documentation officielle sur :
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Installer le gestionnaire de package python3 `pip3` de la manière la plus
+Installez le gestionnaire de package python3 `pip3` de la manière la plus
 adéquate selon votre OS.
 
-Installer les dépendances suivantes avec ces packages:
+Installez les dépendances suivantes avec ces packages :
 
 ```
 sudo pip3 install pandas pyyaml nltk xlsxwritter
@@ -21,31 +21,31 @@ sudo pip3 install pandas pyyaml nltk xlsxwritter
 
 ## Installation
 
-Cloner le répertoire pam:
+Clonez le répertoire pam :
 
 ```bash
 git clone https://github.com/EPgg92/pam.git
 ```
 
-Changer de répertoire:
+Changez de répertoire :
 
 ```bash
 cd pam
 ```
 
-Créer un lien symblolique pour le script executable `pam.py` avec les droits
-de super utilisateur:
+Créez un lien symblolique pour le script exécutable `pam.py` avec les droits
+de super-utilisateur :
 ```bash
 sudo ln -s  $(pwd)/script/pam.py /usr/bin/pam
 ```
-Executer le script en lançant la commande:
+Executez le script en lançant la commande :
 ```
 pam -f nom_de_fichier.txt
 ```
 
-## Usages et options:
+## Usages et options :
 
-Le `pam` a plusieurs options combinables:
+Le `pam` a plusieurs options combinables :
 
 ```console
 usage: pam [-h] -f filename [filename ...] [-g] [-m meter] [-C filename]
@@ -54,9 +54,8 @@ usage: pam [-h] -f filename [filename ...] [-g] [-m meter] [-C filename]
            [-n numbers [numbers ...]] [-a number] [-b number]
 ```
 
-
-### Séléction de fichiers:
-Option `-f` nécessaire pour l'execution permet de choisir le ou les fichiers sur lesquels executer le `pam`.
+### Sélection de fichiers :
+L'option `-f`, nécessaire pour l'exécution, permet de choisir le ou les fichiers sur lesquels exécuter le `pam`.
 
 ```console
 $> pam -f CharretteKu2.txt bestam2.txt
@@ -75,10 +74,10 @@ a·mours cui  ai fait li·gë hom·ma·ge	num_l:1
 sans faus·se·té dë fin co·ra·ge     	num_l:2
 ```
 
-### Spéciation du métre:
-Spécifier le métre avec l'option `-m`. Cette option permet de calculer le nombre de vers bien et mal formés. Pour les métres entre 8 et 14 les places des césures tentent d'être devinées.
-Quand un métre est préciser des statistiques apparait aprés le traitement.
-Si plusieurs fichiers sont donnés alors des statistiques générales sont données sur l'ensemble des fichiers.
+### Spécification du mètre :
+Spécifiez le mètre avec l'option `-m`. Cette option permet de calculer le nombre de vers bien et mal formés. Pour les mètres entre 8 et 14, le programme indique la position des coupes possibles.
+Quand un mètre est spécifié, des statistiques apparaissent après le traitement.
+Si plusieurs fichiers sont donnés, un troisième ensemble de statistiques concerne l'ensemble des fichiers.
 
 ```console
 $> pam -f CharretteKu2.txt bestam2.txt -m8
@@ -134,8 +133,8 @@ Distribution des césures pour 4 vers:
 
 ```
 
-### Résumé:
-Option `-g` permet d'afficher un résumé du nombre de vers bien et mal formés et un résumé de la distridution des césures pour les
+### Résumé :
+L'option `-g` permet d'afficher un résumé du nombre de vers bien et mal formés et un résumé de la distridution des césures pour les ???
 
 ```Console
 $> pam -f CharretteKu10.txt bestam10.txt -g -m 8
@@ -189,13 +188,14 @@ Distribution des césures pour 20 vers:
 	- 5épV	10.00% soit  2
 ```
 
-### Sélecteurs de vers:
+### Sélecteurs de vers :
 
-#### Sur les numéros de vers:
+#### Selon les numéros de vers :
 
-Avec `-a` (_after_) séléctionner tous les vers aprés un numéro vers donné inclu.
-Avec `-b` (_before_) séléctionner tous les vers avant un numéro vers donné non-inclu.
-Et avec `-n` séléctionner directement les vers par leurs numéros de ligne.
+Avec `-a` (_after_), séléctionnez tous les vers situés au-delà d'un numéro vers donné, celui-ci étant inclu.
+Avec `-b` (_before_), séléctionnez tous les vers situés en-deça d'un numéro vers donné, celui-ci n'étant pas inclu.
+Avec `-n`, sélectionnez directement les vers par leurs numéros de ligne.
+
 ```console
 $> pam -f CharretteKu.txt  -a 10 -b 13 -n 600 700 800
 Analyse de CharretteKu.txt
@@ -214,18 +214,19 @@ a·tant së de·par·tent tuit troi 	num_l:700
 et cil res·pont jë mιalz në vuel	num_l:800
 ```
 
-#### Sur les types de césures:
+#### Selon les types de césures :
 
-Avec `-c` séléctionner les vers sur leur type de césures.
-Les types de césures sont les suivants Précédé d'un nombre sans espace entre [3 et 11] :
+Avec `-c`, séléctionnez les vers selon leur type de césures.
+Les types de césures sont les suivants, précédés d'un nombre sans espace compris entre [3 et 11] :
 - NA
 - ej
 - ly
 - ma
 - épC
 - épV
+Ils sont précédés d'un nombre compris entre [3 et 11], sans espace. Ce nombre indique la position de la césure : _6épC_ correspond à une césure épique entre la sixième et la septième positions métriques.
 
-L'option `-c` néssecite l'option `-m`.
+L'option `-c` nécessite l'option `-m`.
 
 ```console
 $> pam -f CharretteKu.txt  -g -m 8 -c 4ma 5ej
@@ -250,10 +251,10 @@ Distribution des césures pour 2331 vers:
 	- 5épV	01.16% soit  27
 ```
 
-#### Sur les métres:
-Avec `-t` garder uniquement les vers séléctionner sur les métres choisis.
-Avec `-T` enlever tous les vers séléctionner sur les métres choisis.
-L'option `-t` a la priorité sur l'option `-T`.
+#### Selon les mètres :
+Avec `-t`, conservez uniquement les vers qui correpondent au nombre de positions donné en argument.
+Avec `-T`, ignorez les vers qui correspondent au nombre de positions donné en argument.
+Dans le cas où les deux options sont activée, l'option `-t` est prioritaire vis-à-vis de l'option `-T`.
 ```console
 $> pam -f bestam.txt -m8 -T 8 9 7 -g
 1 bestam.txt	m:8
@@ -270,15 +271,15 @@ Distribution des césures pour 18 vers:
 	- 5NA	100.00% soit  18
 ```
 
-### Changer de configuration ou de formes atones:
+### Changer de configuration ou de répertoire de formes atones :
 
-Avec l'option `-C` sélectionner le dossier contenant vos fichiers configuraions:
+Avec l'option `-C`, sélectionnez le dossier contenant vos fichiers de configuration :
 - `constants.yaml`
 - `special_syll.yaml`
 - `special_type.yaml`
 
-Avec l'option `-F` sélectionner le dossier contenant vos fichies `.yaml` contenant vos forms atones.
+Avec l'option `-F`, sélectionnez le dossier contenant vos fichies `.yaml` contenant vos formes atones.
 
-### Sauver des fichiers
+### Sauvegarder des fichiers
 
-Avec l'option `-S` vous pouvez sauver vos sorties dans les formats suivants `csv`, `xslx` ou `txt`.
+Avec l'option `-S` vous pouvez sauvegarder vos sorties dans les formats suivants `csv`, `xslx` ou `txt`.
