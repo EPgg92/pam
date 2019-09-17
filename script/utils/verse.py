@@ -85,8 +85,8 @@ class Verse(Textual):
     def __e_last(self):
         if self.words != []:
             words = self.words
-            if re.search(r'e(nt|s)?$', words[-1].list_syll[-1].text) \
-                    and len(self.words[-1].list_syll) > 1 \
+            if len(self.words[-1].list_syll) > 1 \
+                    and re.search(r'e(nt|s)?$', words[-1].list_syll[-1].text) \
                     and words[-1].text not in gv.DICT_SPECIAL_TYPE:
                 words[-1].list_syll[-1].set_type(-1)
                 words[-1].create_metrification()
