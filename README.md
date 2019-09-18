@@ -11,7 +11,7 @@ Créer le corpus du pam : https://www.github.com/EPgg92/pam_corpus
 
 Les droits d'administration sont nécessaires.
 
-Le `pam` est codé en __python3__ :
+Le `pam` est codé en __python3__.
 
 Installez __python3__ en suivant la documentation officielle sur :
 
@@ -23,9 +23,9 @@ adéquate selon votre OS.
 Installez les dépendances suivantes avec ces packages :
 
 ```
-sudo pip3 install pandas 
-sudo pip3 install pyyaml 
-sudo pip3 install nltk 
+sudo pip3 install pandas
+sudo pip3 install pyyaml
+sudo pip3 install nltk
 sudo pip3 install XlsxWriter
 ```
 
@@ -43,12 +43,12 @@ Changez de répertoire :
 cd pam
 ```
 
-Créez un lien symblolique pour le script exécutable `pam.py` avec les droits
+Créez un lien symbolique pour le script exécutable `pam.py` avec les droits
 de super-utilisateur :
 ```bash
 sudo ln -s  $(pwd)/script/pam.py /usr/bin/pam
 ```
-Executez le script en lançant la commande :
+Exécutez le script en lançant la commande :
 ```
 pam -f nom_de_fichier.txt
 ```
