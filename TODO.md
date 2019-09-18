@@ -1,0 +1,10 @@
+- [ ] -S (_Saving_)
+  - [ ] XLSX
+    - [ ] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant)
+    - [ ] Véfifier les sections sous `CSV`, qui pourrait s'appliquer aussi aux autres export (impossible à vérifier tant que l'explort `xlsx` ne fonctionne pas)
+  - [ ] CSV
+    - [ ] Afficher les statistiques en fin de vers (num_line:[_n_], m:_n_[_n_] et césures)
+    - [ ] Inclure quelque part le summup
+      - Je me souviens qu'on avait eu un débat sur l'emplacement de ce summup dans l'export, mais en tout cas il faudrait qu'il soit quelque part...
+    - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement
+    - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
