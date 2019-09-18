@@ -27,6 +27,113 @@ proechë:
   - es
   - chë
 
+#roland
+muer:
+  - mu
+  - er
+
+muers:
+  - mu
+  - ers
+
+muez:
+  - mu
+  - ez
+
+gabriel:
+  - ga
+  - bri
+  - el
+
+gabrιel:
+  - ga
+  - bri
+  - el
+
+luer:
+  - lu
+  - er
+
+chrestïen:
+  - chres
+  - tï
+  - en
+
+chrestïens:
+  - chres
+  - tï
+  - ens
+
+chrestιentet:
+  - chres
+  - tï
+  - en
+  - tet
+
+leun:
+  - le
+  - un
+
+leuns:
+  - le
+  - uns
+
+aluee:
+  - a
+  - lu
+  - e
+  - e
+
+otrιet:
+  - o
+  - tri
+  - et
+
+saluez:
+  - sa
+  - lu
+  - ez
+
+lιez:
+  - li
+  - ez
+
+vιolees:
+  - vi
+  - o
+  - le
+  - es
+
+juer:
+  - ju
+  - er
+
+poent:
+  - po
+  - ent
+
+quιement:
+  - qui
+  - e
+  - ment
+
+proecces:
+  - pro
+  - ec
+  - ces
+
+capuel:
+  - ca
+  - pu
+  - el
+
+otrιer:
+  - o
+  - tri
+  - er
+
+#end_roland
+
 proeche:
   - pro
   - es
@@ -533,7 +640,7 @@ drueries:
 avoez:
   - a
   - vo
-  - ez 
+  - ez
 
 oez:
   - o

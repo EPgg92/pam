@@ -833,7 +833,8 @@ list:
  - lours
  - lxxvj
  - ly
- - mains
+ #- mains
+    #La forme <mains> pour <maints> semble être bien minoritaire par rapport à son sens de MANUS.
  - maintz
  - mas
  - mé
