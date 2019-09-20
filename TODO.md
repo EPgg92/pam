@@ -2,13 +2,13 @@
   - [ ] résoudre la suppression des consonnes + apostrophe.
 - [ ] -S (_Saving_)
   - [ ] XLSX
-    - [ ] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant)
-    - [ ] Véfifier les sections sous `CSV`, qui pourrait s'appliquer aussi aux autres export (impossible à vérifier tant que l'explort `xlsx` ne fonctionne pas)
+    - [X] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant) [FONCTIONNE WTF]
+    - [ ] Véfifier les sections sous `CSV`, qui pourrait s'appliquer aussi aux autres export (impossible à vérifier tant que l'explort `xlsx` ne fonctionne pas) [PAS COMPRIS]
   - [ ] CSV
-    - [ ] Afficher les statistiques en fin de vers (num_line:[_n_], m:_n_[_n_] et césures)
-    - [ ] Inclure quelque part le summup
+    - [ ] Afficher les statistiques en fin de vers (num_line:[_n_], m:_n_[_n_] et césures) [CSV = PAS FAIT POUR MULTI INFO]
+    - [ ] Inclure quelque part le summup [IMPOSSIBLE DANS UN FICHIER CSV PAS FAIT POUR MULTI INFO, CES INFOS SONT DANS LE XLSX DEUXIEME FEUILLE]
       - Je me souviens qu'on avait eu un débat sur l'emplacement de ce summup dans l'export, mais en tout cas il faudrait qu'il soit quelque part...
-    - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement
-    - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
+    - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement [PAS COMPRIS, CSV TERMINAL]
+    - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple). [PAS COMPRIS]
 - [ ] `-n` (_selection by verse numbering_)
   - [ ] Corriger l'option `-n`, qui ne fonctionne pas pour l'instant.
