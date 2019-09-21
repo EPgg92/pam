@@ -40,7 +40,8 @@ def get_pam_argparse():
                        help='select an other forms folder',
                        type=str, default='')
     debug.add_argument('-S', '--save_output_format', nargs='+',
-                       help='save output in a file with one of the following format'
+                       help='save output in a file with one of the '
+                       'following format'
                        ' \'csv\' or \'xlsx\' or \'txt\'',
                        choices=['csv', 'xlsx', 'txt'], metavar='format',
                        default=[])
@@ -64,10 +65,12 @@ def get_pam_argparse():
                           help='select lines by their numbering',
                           type=int, default=[])
     selector.add_argument('-a', '--after_verse_number', metavar='number',
-                          help='select lines whose numbering is equal of higher to the number indicated',
+                          help='select lines whose numbering is equal of '
+                          'higher to the number indicated',
                           type=int, default=-1)
     selector.add_argument('-b', '--before_verse_number', metavar='number',
-                          help='select lines whose numbering is lower the number indicated',
+                          help='select lines whose numbering is lower the '
+                          'number indicated',
                           type=int, default=-1)
     args = parser.parse_args()
     if args.cesure != [] and args.metrics == -1:
