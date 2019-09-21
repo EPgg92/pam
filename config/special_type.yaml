@@ -25,7 +25,7 @@ conquere:
   - 2
 
 #pues:
-# - 1 
+# - 1
 
 verraιement:
   - 1
@@ -36,7 +36,7 @@ verraιement:
 orïent:
   - 1
   - 1
-  - 2 
+  - 2
 
 vraιement:
   - 1
@@ -54,7 +54,7 @@ afichιement:
   - 1
   - 1
   - 1
-  - 2 
+  - 2
 
 vraiement:
   - 1
@@ -11025,7 +11025,7 @@ tornaιement:
   - 1
   - 1
   - 1
-  - 2 
+  - 2
 
 tournaιement:
   - 1
@@ -15297,7 +15297,7 @@ rient:
 
 riënt:
   - 2
-  - -1 
+  - -1
 
 rigoreusement:
   - 1
@@ -18394,6 +18394,42 @@ ysnelment:
 #  - 1
 #  - 1
 #  - 2
+
+#roland
+nïent:
+  - 1
+  - 2
+
+soürement:
+  - 1
+  - 1
+  - 1
+  - 2
+
+cravent:
+  - 1
+  - 2
+
+quιement:
+  - 1
+  - 1
+  - 2
+
+quiement:
+  - 1
+  - 1
+  - 2
+
+espaent:
+  - 1
+  - 1
+  - 2
+
+loυement:
+  - 1
+  - 1
+  - 2
+#end_roland
 
 #FINALES VERBALES DU NORD
 

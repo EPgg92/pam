@@ -298,7 +298,7 @@ class Pam_manager():
         filename = '.'.join([filename, dp.get_now(), 'txt'])
         fl.write_txt(str(self), os.path.join('pam_output', filename))
 
-    def __save_xslx(self):
+    def __save_xlsx(self):
         def __dataframe_stat_meter(dict_meter):
             total = sum([dict_meter[key] for key in dict_meter])
             return pd.DataFrame([[key, dict_meter[key],
@@ -343,8 +343,8 @@ class Pam_manager():
             self.__save_txt()
         if 'csv' in self.pamargv.save_output_format:
             self.__save_csv()
-        if 'xslx' in self.pamargv.save_output_format:
-            self.__save_xslx()
+        if 'xlsx' in self.pamargv.save_output_format:
+            self.__save_xlsx()
 
     def __str__(self):
         """Return the string to_print containing all information."""

@@ -41,8 +41,8 @@ def get_pam_argparse():
                        type=str, default='')
     debug.add_argument('-S', '--save_output_format', nargs='+',
                        help='save output in a file with one of the following format'
-                       ' \'csv\' or \'xslx\' or \'txt\'',
-                       choices=['csv', 'xslx', 'txt'], metavar='format',
+                       ' \'csv\' or \'xlsx\' or \'txt\'',
+                       choices=['csv', 'xlsx', 'txt'], metavar='format',
                        default=[])
     # debug.add_argument('-l', '--save_log_file', metavar='filename',
     #                    help='save command log in chosen file',
