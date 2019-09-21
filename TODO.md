@@ -1,5 +1,6 @@
 - GENERAL
   - [ ] résoudre la suppression des consonnes + apostrophe.
+  - [ ] éventuellement afficher aussi la ponctuation, sans que celle-ci ne soit pour autant calculée par le PAM. C'est juste de l'affichage pour l'utilisateur.
 - [ ] -S (_Saving_)
   - [ ] XLSX
     - [ ] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant)
@@ -12,3 +13,6 @@
     - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
 - [ ] `-n` (_selection by verse numbering_)
   - [ ] Corriger l'option `-n`, qui ne fonctionne pas pour l'instant.
+- [ ] Détails métrification
+  - [ ] prévoir la gestion des rimes paroxytones en -tet (dans _roland_, p.ex.)
+    - [ ] idée : réécrire ```0``` les rimes féminines (ce qui correspond mieux à la prosodie) et dire au PAM de ne pas compter le ```0``` en fin de ligne.

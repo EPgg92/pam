@@ -94,10 +94,6 @@ saluez:
   - lu
   - ez
 
-lιez:
-  - li
-  - ez
-
 vιolees:
   - vi
   - o
@@ -132,7 +128,139 @@ otrιer:
   - tri
   - er
 
+danιel:
+  - da
+  - ni
+  - el
+
+cherιant:
+  - che
+  - ri
+  - ant
+
+samuel:
+  - sa
+  - mu
+  - el
+
+occιan:
+  - oc
+  - ci
+  - an
+
+ocιant:
+  - o
+  - ci
+  - ant
+
+quιad:
+  - qui
+  - ad
+
+marcilië:
+  - mar
+  - ci
+  - lιë
+
+marcilie:
+  - mar
+  - ci
+  - lιe
+
+marsilië:
+  - mar
+  - si
+  - lιë
+
+marsilie:
+  - mar
+  - si
+  - lιe
+
+marsillïes:
+  - mar
+  - sil
+  - lιes
+#Ici, on a un problème : pour une raison inconnue, le PAM double le "l" de Marsilies (l. 89, roland) et dote le "i" d'un tréma... Le placer ici ne corrige le phénomène qu'en surface.
+
+basilië:
+  - ba
+  - si
+  - lιë
+
+basilie:
+  - ba
+  - si
+  - lιe
+
+basillïes:
+  - ba
+  - si
+  - lιes
+#idem _marsillïes_.
+
+iloυec:
+  - i
+  - loec
+
+fiu:
+  - fiu
+
+giu:
+  - giu
+
+liez:
+  - lιez
+
+milie:
+  - mi
+  - lie
+
+milië:
+  - mi
+  - lië
+
+espiez:
+  - es
+  - piez
+
+avisiun:
+  - a
+  - vi
+  - siun
+
+munies:
+  - mu
+  - nιes
+
+canonies:
+  - ca
+  - \no
+  - nιes
+#Pour Enzo. L'échappement avec l'antislash ne marche pas, parce qu'il comprend le \ comme un vrai caractère. Le v. impliqué est dans Roland, numéro 2954.
+
+bramidonie:
+  - bra
+  - mi
+  - do
+  - nιe
+
+bramidonië:
+  - bra
+  - mi
+  - do
+  - nιë
+
+muriuns:
+  - mu
+  - riuns
+
 #end_roland
+
+#lιez:
+#  - li
+#  - ez
+#À rétablir hors Roland.
 
 proeche:
   - pro
