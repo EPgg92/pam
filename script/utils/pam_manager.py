@@ -66,8 +66,11 @@ class Pam_manager():
         after = self.pamargv.after_verse_number
         before = self.pamargv.before_verse_number
         numbers = self.pamargv.verse_number
-        if after + before == -2 and numbers == []:
-            ret = False
+        if after + before == -2:
+            if numbers == []:
+                ret = False
+            else:
+                self.verse_numbers = numbers
         else:
             if after == -1:
                 after = 1
