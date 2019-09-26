@@ -1,5 +1,6 @@
 - GENERAL
   - [ ] résoudre la suppression des consonnes + apostrophe.
+    - exemple : `de l'empereor` -> `de empereor`(mais pas de problème de métrification, bien sûr)
   - [ ] éventuellement afficher aussi la ponctuation, sans que celle-ci ne soit pour autant calculée par le PAM. C'est juste de l'affichage pour l'utilisateur.
 - [ ] -S (_Saving_)
   - [ ] XLSX
@@ -11,8 +12,12 @@
       - Je me souviens qu'on avait eu un débat sur l'emplacement de ce summup dans l'export, mais en tout cas il faudrait qu'il soit quelque part...
     - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement
     - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
+- [ ] -NOT C
+  - [ ]implémenter l'inverse de la fonction d'affichage -c : permet de sélectionner tous les vers qui n'ont pas telle césure (très pratique pour le débuging linguistique : permet de sélectionner tous les vers m+1 qui n'ont pas de 4épC)
 - [x] `-n` (_selection by verse numbering_)
   - [x] Corriger l'option `-n`, qui ne fonctionne pas pour l'instant.
 - [ ] Détails métrification
   - [ ] prévoir la gestion des rimes paroxytones en -tet (dans _roland_, p.ex.)
     - [ ] idée : réécrire ```0``` les rimes féminines (ce qui correspond mieux à la prosodie) et dire au PAM de ne pas compter le ```0``` en fin de ligne.
+  - [ ] Césures
+    - [ ] activer le calcule des césures pour les vers hypermétriques de deux positions (j'en ai besoin pour le paramétrage linguistique).
