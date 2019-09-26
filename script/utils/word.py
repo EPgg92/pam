@@ -144,7 +144,7 @@ class Word(Textual):
             r'\2ï\4', self.text)
         # "Vlies" -> "Vlïes"    &   "Vcries" -> "Vcrïes"
         self.text = re.sub(
-            r'(.*[aeiouäëïöüÿáéíóúàèìòùâêîôû]{1,}(l|cr))(i|ι)((e(s|z)|é)$)',
+            r'(.*[aeiouäëïöüÿáéíóúàèìòùâêîôû]{1,})(l|cr)(i|ι)((e(s|z)|é)$)',
             r'\1\2ï\5', self.text)
         # "-uer" -> "-üer"
         self.text = re.sub(

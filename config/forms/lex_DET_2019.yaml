@@ -99,7 +99,8 @@ list:
  - chascun
  - plusieurs
  - deus
- - altre
+ #- altre
+ # Pb. : PROind homographe du DETind, alors que le PROind peut-être final de groupe clitique et porter l'accent (ne mei ne altre)
  - cent
  - me
  - mi
@@ -246,7 +247,7 @@ list:
  - .vii.
  - .xv.
  - alcune
- - altres
+ #- altres
  - aucunes
  - aultres
  - chis
@@ -319,7 +320,7 @@ list:
  - ycelle
  - .iij.
  - .lx.
- - altre
+ #- altre
  - ambes
  - autrez
  - dis
@@ -496,7 +497,7 @@ list:
  - .xxv.m.
  - .xxx.
  - ·ssos
- - altres
+ #- altres
  - ambesdous
  - ascune
  - aulcun

@@ -157,6 +157,11 @@ quιad:
   - qui
   - ad
 
+marsiliun:
+  - mar
+  - si
+  - lιun
+
 marcilië:
   - mar
   - ci
@@ -177,11 +182,49 @@ marsilie:
   - si
   - lιe
 
+marsile:
+  - mar
+  - si
+  - lιe
+
 marsillïes:
   - mar
   - sil
   - lιes
 #Ici, on a un problème : pour une raison inconnue, le PAM double le "l" de Marsilies (l. 89, roland) et dote le "i" d'un tréma... Le placer ici ne corrige le phénomène qu'en surface.
+#Cela vient de la régex # "Vlies" -> "Vlïes"    &   "Vcries" -> "Vcrïes", qui fonctionne pour /li/ phonologique, pas pour la graphie <li> pour /ʎ/ en normand.
+
+marsilïes:
+  - mar
+  - si
+  - lιes
+
+martirie:
+  - mar
+  - ti
+  - rιe
+
+martirië:
+  - mar
+  - ti
+  - rιë
+
+martiries:
+  - mar
+  - ti
+  - rιes
+
+healmes:
+  - heal
+  - mes
+
+healmë:
+  - heal
+  - më
+
+healme:
+  - heal
+  - me
 
 basilië:
   - ba
@@ -193,11 +236,33 @@ basilie:
   - si
   - lιe
 
+basilïes:
+  - ba
+  - si
+  - lιes
+
 basillïes:
   - ba
   - si
   - lιes
 #idem _marsillïes_.
+
+carcasonie:
+  - car
+  - ca
+  - so
+  - nιe
+
+carcasonië:
+  - car
+  - ca
+  - so
+  - nιë
+
+haltilie:
+  - hal
+  - ti
+  - lιe
 
 iloυec:
   - i
@@ -238,6 +303,7 @@ canonies:
   - \no
   - nιes
 #Pour Enzo. L'échappement avec l'antislash ne marche pas, parce qu'il comprend le \ comme un vrai caractère. Le v. impliqué est dans Roland, numéro 2954.
+#Sinon, le yaml comprend l'opérateur booléen "no" (vs. yes).
 
 bramidonie:
   - bra
@@ -329,17 +395,27 @@ babilonië:
   - lo
   - nιë
 
+palïe:
+  - pa
+  - lιe
+
 palie:
   - pa
   - lιe
+
+palïë:
+  - pa
+  - lιë
 
 palië:
   - pa
   - lιë
 
-palies:
+palïes:
   - pa
   - lιes
+#Pour les palïe : une regex (cf. marsilie) ajoute un tréma, mais elle est valable pour la plupart des mots. Ici, on overrule la regex pour un mot spécifique.
+# Explication : chez Roland, la graphie /li/ vaut ici pour /ʎ/, donc il ne s'agit pas du traitement de /li.e/ puisque c'est juste /ʎə/. C'est le mot _paille_.
 
 bronie:
   - bro
@@ -356,7 +432,56 @@ bronies:
 fuus:
   - fuus
 
+fiez:
+  - fiez
+
+suatilie:
+  - sua
+  - ti
+  - lιe
+
+suatilië:
+  - sua
+  - ti
+  - lιë
+
+avriumes:
+  - a
+  - vriu
+  - mes
+
+enveιet:
+  - en
+  - vei
+  - et
+
+algier:
+  - al
+  - gier
+
+sibilie:
+  - si
+  - bi
+  - lιe
+
+sibilië:
+  - si
+  - bi
+  - lιë
+
+sibilies:
+  - si
+  - bi
+  - lιes
+
 #end_roland
+
+deol:
+  - deol
+
+devient:
+  - de
+  - vιent
 
 #lιez:
 #  - li

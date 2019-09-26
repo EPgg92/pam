@@ -18802,10 +18802,11 @@ entret:
   - 2
   - 0
 
-enveiet:
+enveιet:
   - 1
   - 2
   - 0
+#Ce n'est pas la bonne syllabation, mais ça marche pour l'instant. /!\ export XML avec ces mauvaises syllabations.
 
 enveiset:
   - 1
@@ -19326,8 +19327,25 @@ declinet:
   - 2
   - 0
 
-
 #end_roland
+
+devιent:
+  - 1
+  - 2
+
+altre:
+  - 2
+  - 0
+
+altrë:
+  - 2
+  - 0
+
+sevent:
+  - 2
+  - 0
+#efface le sevent adverbial, non présent pour roland, alors que dans roland, sevent reprèsent la P6.IND.PRÉ de savoir.
+
 
 #FINALES VERBALES DU NORD
 

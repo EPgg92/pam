@@ -21,3 +21,11 @@
     - [ ] idée : réécrire ```0``` les rimes féminines (ce qui correspond mieux à la prosodie) et dire au PAM de ne pas compter le ```0``` en fin de ligne.
   - [ ] Césures
     - [ ] activer le calcule des césures pour les vers hypermétriques de deux positions (j'en ai besoin pour le paramétrage linguistique).
+- [ ] BUGS que je ne comprends pas :
+  - [ ] 4épC non calculée sur _as tables juent pur els esbaneier_ alors que _juent_ est bien taggé `2 0`. (roland, l. 111)
+    - les finales -ent déclenchent pourtant bien des 4épC, comme dans _cil li respundent or seit fait par marenes_ (l. 3977).
+    - est-ce que c'est dû au fait qu'il n'y a pas de consonne entre le `2` et le `0` ?
+    - en tout cas il faudrait corriger cela.
+  - [ ]FORMS
+    - [ ] J'ai dû retagger _altre_ dans `special_type` parce que, même une fois commentées les homographes dans tous les fichiers `forms`, il continuait à être taggé `1 0` alors qu'il devrait être `2 0`. Je ne comprends pas d'où vient ce bug.
+    - [ ] Même chose sur _dejuste_.
