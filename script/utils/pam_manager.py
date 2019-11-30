@@ -112,6 +112,14 @@ class Pam_manager():
                                    set(self.pamargv.cesure),
                                    dict_verses[num].cesure)) > 0}
                 self.files[key] = path, dict_verses
+        if self.pamargv.not_cesure != []:
+            for key in sorted(self.files):
+                path, dict_verses = self.files[key]
+                dict_verses = {num: dict_verses[num] for num
+                               in dict_verses if len(set.intersection(
+                                   set(self.pamargv.not_cesure),
+                                   dict_verses[num].cesure)) == 0}
+                self.files[key] = path, dict_verses
 
     def __process_verse(self):
         for key in sorted(self.files):
@@ -302,7 +310,7 @@ class Pam_manager():
         def __dataframe_stat_meter(dict_meter):
             total = sum([dict_meter[key] for key in dict_meter])
             return pd.DataFrame([[key, dict_meter[key],
-                                  dict_meter[key]/total * 100]
+                                  dict_meter[key] / total * 100]
                                  for key in sorted(dict_meter)],
                                 columns=['meter', 'occurence', 'frequence'])
 

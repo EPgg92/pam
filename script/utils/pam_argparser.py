@@ -49,15 +49,19 @@ def get_pam_argparse():
     #                    type=argparse.FileType('a+'),
     #                    default=open('log.txt', 'a+'))
     selector.add_argument('-c', '--cesure', nargs='+', metavar='string',
-                          help='select verses which fitting the wanted '
+                          help='select verses fitting the wanted '
+                          'cesure type; if a metrics is define',
+                          type=str, default=[])
+    selector.add_argument('-k', '--not_cesure', nargs='+', metavar='string',
+                          help='select verses not fitting the wanted '
                           'cesure type; if a metrics is define',
                           type=str, default=[])
     selector.add_argument('-t', '--these_meters', nargs='+', metavar='number',
-                          help='select verses which fitting the wanted meter',
+                          help='select verses fitting the wanted meter',
                           type=int, default=[])
     selector.add_argument('-T', '--not_these_meters', nargs='+',
                           metavar='number',
-                          help='select verses which not fitting'
+                          help='select verses not fitting'
                           ' the wanted meter',
                           type=int, default=[])
     selector.add_argument('-n', '--verse_number', nargs='+', metavar='numbers',
@@ -70,6 +74,8 @@ def get_pam_argparse():
                           help='select only verses upper this number',
                           type=int, default=-1)
     args = parser.parse_args()
+    if args.not_cesure != [] and args.metrics == -1:
+        parser.error("-k (--not_cesure) requires -m (--metrics) to work.")
     if args.cesure != [] and args.metrics == -1:
         parser.error("-c (--cesure) requires -m (--metrics) to work.")
     if args.metrics == -1 and args.general:
