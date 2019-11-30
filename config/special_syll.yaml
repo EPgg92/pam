@@ -209,6 +209,26 @@ martirië:
   - ti
   - rιë
 
+matirie:
+  - ma
+  - ti
+  - rιe
+
+matirië:
+  - ma
+  - ti
+  - rιë
+
+matyrie:
+  - ma
+  - ty
+  - rιe
+
+matyrië:
+  - ma
+  - ty
+  - rιë
+
 martiries:
   - mar
   - ti
@@ -304,6 +324,16 @@ canonies:
   - nιes
 #Pour Enzo. L'échappement avec l'antislash ne marche pas, parce qu'il comprend le \ comme un vrai caractère. Le v. impliqué est dans Roland, numéro 2954.
 #Sinon, le yaml comprend l'opérateur booléen "no" (vs. yes).
+
+canonië:
+  - ca
+  - \no
+  - nιë
+
+canonie:
+  - ca
+  - \no
+  - nιe
 
 bramidonie:
   - bra
@@ -474,6 +504,264 @@ sibilies:
   - bi
   - lιes
 
+humeles:
+  - hume
+  - les
+
+moerium:
+  - moe
+  - rιum
+
+yvoeries:
+  - y
+  - voe
+  - rιes
+
+kartagene:
+  - kar
+  - ta
+  - gene
+
+raiet:
+  - ra
+  - ιet
+
+vieill:
+  - vieill
+
+revient:
+  - re
+  - vιent
+
+nobilie:
+  - \no
+  - bi
+  - lιe
+#Pb booléen yaml
+
+nobilië:
+  - \no
+  - bi
+  - lιë
+
+nobilies:
+  - \no
+  - bi
+  - lιes
+#Pb booléen yaml
+
+sardonie:
+  - sar
+  - do
+  - nιe
+
+sardonië:
+  - sar
+  - do
+  - nιë
+
+catainie:
+  - ca
+  - ta
+  - nιe
+
+catainië:
+  - ca
+  - ta
+  - nιë
+
+catainies:
+  - ca
+  - ta
+  - nιes
+
+cataignie:
+  - ca
+  - ta
+  - nιe
+
+cataignië:
+  - ca
+  - ta
+  - nιë
+
+cataignies:
+  - ca
+  - ta
+  - nιes
+
+poéz:
+  - poéz
+
+miez:
+  - miez
+
+gracιet:
+  - gra
+  - ci
+  - et
+
+bataillie:
+  - ba
+  - tail
+  - lιe
+
+bataillië:
+  - ba
+  - tail
+  - lιë
+
+bataillies:
+  - ba
+  - tail
+  - lιes
+
+virgilie:
+  - vir
+  - gi
+  - lιe
+
+virgilië:
+  - vir
+  - gi
+  - lιë
+
+navilie:
+  - na
+  - vi
+  - lιe
+
+navilië:
+  - na
+  - vi
+  - lιë
+
+navilies:
+  - na
+  - vi
+  - lιes
+
+navirie:
+  - na
+  - vi
+  - rιe
+
+navirië:
+  - na
+  - vi
+  - rιë
+
+naviries:
+  - na
+  - vi
+  - rιes
+
+sirie:
+  - si
+  - rιe
+
+sirië:
+  - si
+  - rιë
+
+timonie:
+  - ti
+  - mo
+  - nιe
+
+timonië:
+  - ti
+  - mo
+  - nιë
+
+timonies:
+  - ti
+  - mo
+  - nιes
+
+tierris:
+  - tιer
+  - ris
+
+tierri:
+  - tιer
+  - ri
+
+brunie:
+  - bru
+  - nιe
+
+brunië:
+  - bru
+  - nιë
+
+brunies:
+  - bru
+  - nιes
+
+canelius:
+  - ca
+  - ne
+  - lιus
+
+astrimonies:
+  - as
+  - tro
+  - mo
+  - nιes
+
+astrimonie:
+  - as
+  - tro
+  - mo
+  - nιe
+
+astrimonië:
+  - as
+  - tro
+  - mo
+  - nιë
+
+baptisterie:
+  - bap
+  - tis
+  - te
+  - rιe
+
+baptisterië:
+  - bap
+  - tis
+  - te
+  - rιë
+
+baptisteries:
+  - bap
+  - tis
+  - te
+  - rιes
+
+loυewis:
+  - loe
+  - wis
+
+voeiz:
+  - voeiz
+
+emperie:
+  - em
+  - pe
+  - rιe
+
+emperië:
+  - em
+  - pe
+  - rιë
+
+emperies:
+  - em
+  - pe
+  - rιes
+
 #end_roland
 
 deol:
@@ -482,6 +770,33 @@ deol:
 devient:
   - de
   - vιent
+
+grandonies:
+  - gran
+  - do
+  - nιes
+
+grandonie:
+  - gran
+  - do
+  - nιe
+
+grandonië:
+  - gran
+  - do
+  - nιë
+
+marmorie:
+  - mar
+  - mo
+  - rιe
+
+guiun:
+  - guiun
+
+valeri:
+  - va
+  - lerι
 
 #lιez:
 #  - li

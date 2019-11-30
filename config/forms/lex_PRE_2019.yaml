@@ -261,7 +261,7 @@ list:
  - desoz
  - dans
  - deléz
- - estre
+ #- estre
  - ové
  - pour
  - aulx
@@ -275,7 +275,7 @@ list:
  - desuz
  - dusques
  - pres
- - estre
+ #- estre
  - les
  - ou
  - pardevers
@@ -301,7 +301,7 @@ list:
  - tresque
  - anviron
  - ciés
- - dejuste
+ # - dejuste
  - delés
  - dés
  - dessoure
@@ -383,7 +383,7 @@ list:
  - avant
  - avecque
  - dedanz
- - dejuste
+ # - dejuste
  - deleiz
  - deriere
  - dés
@@ -537,7 +537,7 @@ list:
  - entr’
  - esquelles
  - eu
- - evesque
+ #- evesque (removed for _roland_).
  - for
  - forsque
  - hors

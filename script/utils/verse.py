@@ -37,6 +37,8 @@ class Verse(Textual):
         self.str_verse_type = "|".join([w.str_word_type for w in self.words])
         self.meter = len(
             [y for x in self.words for y in x.word_type if y > -1])
+        if self.words != [] and self.words[-1].list_type[-1] == 0 :
+            self.meter -= 1
 
     def __set_dict_syll(self):
         self.dict_syll = {}
@@ -72,7 +74,7 @@ class Verse(Textual):
                                 self.cesure.add('{}NA'.format(pos))
                         else:
                             self.cesure.add('{}NA'.format(pos))
-                    elif self.meter == gv.METRICS + 1 and not syll.is_last:
+                    elif self.meter == gv.METRICS + 1 and len(self.words[pos_word].list_syll) > pos_syll + 1:
                         if syll.type == 2 and self.words[pos_word].list_syll[pos_syll + 1].type == 0:
                             self.cesure.add('{}épC'.format(pos))
                         else:
@@ -88,7 +90,7 @@ class Verse(Textual):
             if len(self.words[-1].list_syll) > 1 \
                     and re.search(r'e(nt|s)?$', words[-1].list_syll[-1].text) \
                     and words[-1].text not in gv.DICT_SPECIAL_TYPE:
-                words[-1].list_syll[-1].set_type(-1)
+                words[-1].list_syll[-1].set_type(0)
                 words[-1].create_metrification()
             for i in range(len(words) - 1):
                 if len(words[i].list_syll) > 1:
