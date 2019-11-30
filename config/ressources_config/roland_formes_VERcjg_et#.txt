@@ -1,0 +1,608 @@
+Référence	ContexteGauche	Pivot	ContexteDroit   [type="VERcjg" & word=".*et"]
+roland	p. 26, v. 7	ki est en une muntaigne. Li reis Marsilie la tient, ki Deu nen	aimet	. Mahumet sert e Apollin recleimet : Nes poet guarder que mals ne l'i
+roland	p. 26, v. 8	Li reis Marsilie la tient, ki Deu nen aimet. Mahumet sert e Apollin	recleimet	: Nes poet guarder que mals ne l'i ateignet. AOI. Li reis
+roland	p. 26, v. 9	la tient, ki Deu nen aimet. Mahumet sert e Apollin recleimet : Nes	poet	guarder que mals ne l'i ateignet. AOI. Li reis Marsilie esteit en
+roland	p. 26, v. 9	. Mahumet sert e Apollin recleimet : Nes poet guarder que mals ne l'i	ateignet	. AOI. Li reis Marsilie esteit en Sarraguce. Alez en est en un
+roland	p. 26, v. 12	est en un verger suz l'umbre. Sur un perrun de marbre bloi se	culchet	; Envirun lui plus de vint milie humes. Il en apelet e ses dux
+roland	p. 26, v. 14	marbre bloi se culchet ; Envirun lui plus de vint milie humes. Il en	apelet	e ses dux e ses cuntes : « Oez, seignurs, quel pecchet nus
+roland	p. 26, v. 15	e ses dux e ses cuntes : « Oez, seignurs, quel pecchet nus	encumbret	. Li empereres Carles de France dulce En cest païs nos est venuz cunfundre.
+roland	p. 26, v. 19	ai ost qui bataille li dunne, Ne n'ai tel gent ki la sue	derumpet	. Conseilez mei cume mi savie hume, Si me guarisez e de mort e
+roland	p. 26, v. 22	de mort e de hunte ! » N'i ad paien ki un sul mot	respundet	, Fors Blancandrins de Castel de Valfunde. Blancandrins fut des plus saives paiens ;
+roland	p. 28, v. 48	Blancandrins : « Pa ceste meie destre E par la barbe ki al piz me	ventelet	, L'ost des Franceis verrez sempres desfere. Francs s'en irunt en France
+roland	p. 30, v. 61	Ne nus aiuns les mals ne les suffraites ! » Dient paien : « Issi	poet	il ben estre ! » Li reis Marsilie out sun cunseill finet, Sin apelat
+roland	p. 30, v. 73	siege a Cordres la citet. Branches d'olive en voz mains portereiz, Ço	senefiet	pais e humilitet. Par voz saveirs sem puëz acorder, Jo vos durrai or
+roland	p. 32, v. 95	branches d'olive. Vindrent a Charles, ki France ad en baillie ; Nes	poet	guarder que alques ne l'engignent. AOI. Li empereres se fait e balz
+roland	p. 34, v. 116	un eglenter, Un faldestoed i unt, fait tut d'or mer : La	siet	li reis ki dulce France tient. Blanche ad la barbe e tut flurit le
+roland	p. 34, v. 119	le chef, Gent ad le cors e le cuntenant fier : S'est kil	demandet	, ne l'estoet enseigner. E li message descendirent a pied, Sil saluerent
+roland	p. 34, v. 119	ad le cors e le cuntenant fier : S'est kil demandet, ne l'	estoet	enseigner. E li message descendirent a pied, Sil saluerent par amur e par
+roland	p. 34, v. 125	« Salvet seiez de Deu, Le Glorius, que devuns aürer ! Iço vus	mandet	reis Marsilies li bers : Enquis ad mult la lei de salvetet, De sun
+roland	p. 34, v. 138	ço dit, mis avoez. » Li empereres tent ses mains vers Deu,	Baisset	sun chef, si cumencet a penser. AOI. Li empereres en tint sun
+roland	p. 34, v. 138	. » Li empereres tent ses mains vers Deu, Baisset sun chef, si	cumencet	a penser. AOI. Li empereres en tint sun chef enclin. De sa
+roland	p. 34, v. 141	enclin. De sa parole ne fut mie hastifs ; Sa custume est qu'il	parolet	a leisir. Quant se redrecet, mult par out fier lu vis ; Dist
+roland	p. 34, v. 142	fut mie hastifs ; Sa custume est qu'il parolet a leisir. Quant se	redrecet	, mult par out fier lu vis ; Dist as messages : « Vus avez
+roland	p. 36, v. 166	li reis escultet. Desuz un pin en est li reis alez, Ses baruns	mandet	pur sun cunseill finer : Par cels de France voelt il del tut errer.
+roland	p. 36, v. 169	errer. AOI. Li empereres s'en vait desuz un pin ; Ses baruns	mandet	pur sun cunseill fenir, Le duc Oger e l'arcevesque Turpin, Richard li
+roland	p. 36, v. 179	plus de mil ; Guenes i vint, ki la traïson fist. Des ore	cumencet	le cunseill que mal prist. AOI. « Seignurs barons, dist li emperere
+roland	p. 38, v. 187	l'or d'Arabe, Avoec iço plus de cinquante care. Mais il me	mandet	que en France m'en alge, Il me sivrat ad Ais, a mun
+roland	p. 38, v. 194	. Li empereres out sa raisun fenie. Li quens Rollant, ki ne l'	otriet	mie, En piez se drecet, si li vint cuntredire. Il dist al
+roland	p. 38, v. 195	fenie. Li quens Rollant, ki ne l'otriet mie, En piez se	drecet	, si li vint cuntredire. Il dist al rei : « Ja mar crerez
+roland	p. 40, v. 218	sun nevuld. Franceis se taisent, ne mais que Guenelun. En piez se	drecet	, si vint devant Carlun, Mult fierement cumencet sa raisun E dist al rei
+roland	p. 40, v. 219	que Guenelun. En piez se drecet, si vint devant Carlun, Mult fierement	cumencet	sa raisun E dist al rei : « Ja mar crerez bricun, Ne mei
+roland	p. 40, v. 222	, Ne mei ne altre, se de vostre prod nun ! Quant ço vos	mandet	li reis Marsiliun Qu'il devendrat jointes ses mains tis hom E tute Espaigne tendrat
+roland	p. 40, v. 226	par vostre dun, Puis recevrat la lei que nus tenum, Ki ço vos	lodet	que cest plait degetuns, Ne li chalt, sire, de quel mort nus
+roland	p. 40, v. 239	fruiset ses murs, Ses citez arses e ses humes vencuz : Quant il vos	mandet	qu'aiez mercit de lui, Pecchet fereit ki dunc li fesist plus. U
+roland	p. 44, v. 278	Ço ert Guenes, mis parastre. » Dient Franceis : « Car il le	poet	ben faire ; Se lui lessez, n'i trametrez plus saive. » E
+roland	p. 44, v. 281	saive. » E li quens Guenes en fut mult anguisables. De sun col	getet	ses grandes pels de martre E est remés en sun blialt de palie. Vairs
+roland	p. 44, v. 287	. Dist a Rollant : « Tut fol, pur quei t'esrages ? Ço	set	hom ben que jo sui tis parastres, Si as juget qu'a Marsiliun en
+roland	p. 44, v. 289	tis parastres, Si as juget qu'a Marsiliun en alge. Se Deus ço	dunet	que jo de la repaire, Jo t'en muvra une si grant contraire Ki
+roland	p. 44, v. 293	trestut tun edage. » Respunt Rollant : « Orgoill oi e folage. Ço	set	hom ben, n'ai cure de manace ; Mais saives hom, il deit
+roland	p. 44, v. 298	. Tu n'ies mes hom, ne jo ne sui tis sire. Carles	comandet	que face sun servise : En Sarraguce en irai a Marsilie. Einz i frai
+roland	p. 46, v. 310	en present : Ademplir voeill vostre comandement. En Sarraguce sai ben qu'aler m'	estoet	. AOI. Hom ki la vait repairer ne s'en poet. Ensurquetut si
+roland	p. 46, v. 311	qu'aler m'estoet. AOI. Hom ki la vait repairer ne s'en	poet	. Ensurquetut si ai jo vostre soer, Sin ai un filz, ja plus
+roland	p. 46, v. 313	ai jo vostre soer, Sin ai un filz, ja plus bels n'en	estoet	, Ço est Baldewin, ço dit, ki ert prozdoem. A lui lais
+roland	p. 46, v. 318	respunt : « Tro avez tendre coer. Puis quel comant, aler vos en	estoet	. » Ço dist li reis : « Guenes, venez avant, AOI.
+roland	p. 48, v. 358	: « Sire, car nos menez ! » Ço respunt Guenes : « Ne	placet	Damnedeu ! Mielz est que sul moerge que tant bon chevaler. En dulce France
+roland	p. 48, v. 365	mun filz que vos savez, E lui aidez e pur seignur tenez. »	Entret	en sa veie, si s'est achiminez. AOI. Guenes chevalchet suz une
+roland	p. 50, v. 366	. » Entret en sa veie, si s'est achiminez. AOI. Guenes	chevalchet	suz une olive halte, Asemblet s'est as sarrazins messages ; Mais Blancandrins ki
+roland	p. 50, v. 368	halte, Asemblet s'est as sarrazins messages ; Mais Blancandrins ki envers lu s'	atarget	; Par grant saveir parolet li uns a l'altre. Dist Blancandrins : «
+roland	p. 50, v. 369	as sarrazins messages ; Mais Blancandrins ki envers lu s'atarget ; Par grant saveir	parolet	li uns a l'altre. Dist Blancandrins : « Merveilus hom est Charles,
+roland	p. 50, v. 390	. Li soens orgoilz le devreit ben cunfundre, Kar chascun jur de mort s'	abandunet	. Seit ki l'ociet, tute pais puis avriumes. » AOI. Dist
+roland	p. 50, v. 391	devreit ben cunfundre, Kar chascun jur de mort s'abandunet. Seit ki l'	ociet	, tute pais puis avriumes. » AOI. Dist Blancandrins : « Mult est
+roland	p. 52, v. 394	« Mult est pesmes Rollant, Ki tute gent voelt faire recreant E tutes teres	met	en chalengement ! Par quele gent quiet il espleiter tant ? » Guenes respunt :
+roland	p. 52, v. 395	tute gent voelt faire recreant E tutes teres met en chalengement ! Par quele gent	quiet	il espleiter tant ? » Guenes respunt : « Par la franceise gent. Il
+roland	p. 52, v. 398	gent. Il l'aiment tant ne li faldrunt nient. Or e argent lur	met	tant en present, Muls e destrers, palies e guarnemenz ; L'emperere meïsmes
+roland	p. 52, v. 421	en levat cuntremunt, Loat sun Deu, ne fist altre respuns. Ci vos	enveiet	un sun noble barun, Ki est de France, si est mult riches hom
+roland	p. 54, v. 424	Par lui orrez si avrez pais u nun. » Respunt Marsilie : « Or	diet	, nus l'orrum ! » AOI. Mais li quens Guenes se fut ben
+roland	p. 54, v. 426	» AOI. Mais li quens Guenes se fut ben purpenset. Par grant saver	cumencet	a parler, Cume celui ki ben faire le set, E dist al rei
+roland	p. 54, v. 427	purpenset. Par grant saver cumencet a parler, Cume celui ki ben faire le	set	, E dist al rei : « Salvez seiez de Deu, Li Glorius,
+roland	p. 54, v. 430	« Salvez seiez de Deu, Li Glorius, qui devum aürer ! Iço vus	mandet	Carlemagnes li ber Que recevez seinte chrestientet ; Demi Espaigne vos voelt en fiu duner
+roland	p. 56, v. 460	Que jo ne li die, se tant ai de leisir, Que Charles li	mandet	, li reis poësteïfs : Par mei li mandet, sun mortel enemi. »
+roland	p. 56, v. 461	de leisir, Que Charles li mandet, li reis poësteïfs : Par mei li	mandet	, sun mortel enemi. » Afublez est d'un mantel sabelin Ki fut cuvert
+roland	p. 56, v. 464	» Afublez est d'un mantel sabelin Ki fut cuvert d'un palie alexandrin.	Getet	le a tere, sil receit Blancandrin ; Mais de s'espee ne volt mie
+roland	p. 56, v. 470	, Si li ad dit : « A tort vos curuciez, Quar ço vos	mandet	Carles, ki France tient, Que recevez la lei de chrestïens ; Demi Espaigne
+roland	p. 56, v. 483	sur un malvais sumer. Par jugement iloec perdrez le chef. Nostre emperere vus	enveiet	cest bref. » El destre poign al paien l'ad livret. Marsilies fut
+roland	p. 58, v. 487	esculurez de l'ire, Freint le seel, getet en ad la cire.	Guardet	al bref, vit la raisun escrite : « Carle me mandet, ki France
+roland	p. 58, v. 488	la cire. Guardet al bref, vit la raisun escrite : « Carle me	mandet	, ki France ad en baillie, Que me remembre de la dolur e l'
+roland	p. 58, v. 497	: « Guenes ad dit folie. Tant ad erret nen est dreiz que plus	vivet	. Livrez le mei, jo en ferai la justice. » Quant l'oït
+roland	p. 58, v. 502	. Enz el verger s'en est alez li reis, Ses meillors humes en	meinet	ensembl'od sei, E Blancandrins i vint, al canud peil, E Jurfaret
+roland	p. 58, v. 510	l'ad pris par la main destre as deiz, Enz el verger l'en	meinet	josqu'al rei. La purparolent la traïsun seinz dreit. AOI. « Bel
+roland	p. 60, v. 530	« Carles n'est mie tels. N'est hom kil veit e conuistre le	set	Que ço ne diet que l'emperere est ber. Tant nel vos sai ne
+roland	p. 60, v. 531	mie tels. N'est hom kil veit e conuistre le set Que ço ne	diet	que l'emperere est ber. Tant nel vos sai ne preiser ne loer Que
+roland	p. 60, v. 544	mais recreanz d'osteier ? - Ço n'iert, dist Guenes, tant cum	vivet	sis niés : N'ad tel vassal suz la cape del ciel. Mult par
+roland	p. 62, v. 557	mais d'osteier recreant ? - Ço n'iert, dist Guenes, tant cum	vivet	Rollant : N'ad tel vassal d'ici qu'en Orïent. Mult par est
+roland	p. 62, v. 560	Mult par est proz Oliver, sis cumpain ; Li.XII. per, que Carles	aimet	tant, Funt les enguardes a.XX. milie de Francs. Soürs est Carles,
+roland	p. 64, v. 586	li quens Rollant, li riches, E Oliver, en qui il tant se	fiet	..XX. milie Francs unt en lur cumpaignie. De voz paiens lur enveiez.C.
+roland	p. 64, v. 602	» Quan l'ot Marsilie, si l'ad baiset el col, Puis si	cumencet	a venir ses tresors. AOI. Ço dist Marsilies : « Qu'en parlereient
+roland	p. 66, v. 613	fut Mahum e Tervagan. Ço ad juret li Sarrazins espans, Se en rereguarde	troevet	le cors Rollant, Cumbatrat sei a trestute sa gent E, se il poet
+roland	p. 66, v. 615	troevet le cors Rollant, Cumbatrat sei a trestute sa gent E, se il	poet	, murrat i veirement. Guenes respunt : « Ben seit vostre comant ! »
+roland	p. 66, v. 636	Jo vos aim mult, sire, dist ele al cunte, Car mult vos	priset	mi sire e tuit si hume. A vostre femme enveierai dous nusches, Bien
+roland	p. 68, v. 641	n'en out unches. » Il les ad prises, en sa hoese les	butet	. AOI. Li reis apelet Malduit, sun tresorer : « L'aveir Carlun
+roland	p. 68, v. 642	Il les ad prises, en sa hoese les butet. AOI. Li reis	apelet	Malduit, sun tresorer : « L'aveir Carlun, est il apareilliez ? »
+roland	p. 68, v. 660	respunt : « Mei est vis que trop targe ! » Pois est munted,	entret	en sun veiage. AOI. Li empereres aproismet sun repaire. Venuz en est
+roland	p. 68, v. 661	! » Pois est munted, entret en sun veiage. AOI. Li empereres	aproismet	sun repaire. Venuz en est a la citet de Galne. Li quens Rollant
+roland	p. 68, v. 667	, la grant tere. Par main en l'albe, si cum li jurz	esclairet	, Guenes li quens est venuz as herberges. AOI. Li empereres est par
+roland	p. 70, v. 675	asez ; Guenes i vint, li fels, li parjurez. Par grant veisdie	cumencet	a parler E dist al rei : « Salvez seiez de Deu ! De Sarraguce
+roland	p. 70, v. 680	en faz amener E.XX. hostages, faites les ben guarder, E si vos	mandet	reis Marsilies li ber De l'algalifes nel devez pas blasmer, Kar a mes
+roland	p. 72, v. 706	violees. Ço dit li reis que sa guere out finee. Vers dulce France	chevalchet	l'emperere. Li quens Rollant ad l'enseigne fermee, En sum un tertre
+roland	p. 72, v. 719	noit est aserie. Carles se dort, li empereres riches. Sunjat qu'il	eret	al greignurs porz de Sizer ; Entre ses poinz teneit sa hanste fraisnine ; Guenes
+roland	p. 72, v. 724	le cel en volent les escicles ; Carles se dort, qu'il ne s'	esveillet	mie. Aprés iceste altre avisiun sunjat, Qu'il ert en France, a
+roland	p. 74, v. 739	noit e apert la clere albe. Par mi cel host Li empereres mult fierement	chevalchet	. « Seignurs barons, dist li emperere Carles, Veez les porz e les
+roland	p. 74, v. 745	baron de si grant vasselage. » Quant l'ot li reis, fierement le	reguardet	, Si li ad dit : « Vos estes vifs dïables. El cors vos
+roland	p. 74, v. 750	respunt : « Oger de Denemarche : N'avez barun ki mielz de lui la	facet	. » Li quens Rollant, quant il s'oït juger, AOI. Dunc
+roland	p. 74, v. 757	France tient, Men escïentre, palefreid ne destrer, Ne mul ne mule que	deiet	chevalcher, Ne n'i perdrat ne runcin ne sumer Que as espees ne seit
+roland	p. 76, v. 769	que vos tenez el poign. Men escïentre, nel me reproverunt Que il me	chedet	cum fist a Guenelun De sa main destre, quant reçut le bastun. »
+roland	p. 76, v. 773	tint sun chef enbrunc, Si duist sa barbe e detoerst sun gernun, Ne	poet	muer que des oilz ne plurt. Anprés iço i est Neimes venud, Meillor
+roland	p. 76, v. 782	tendut, Si li truvez ki trés bien li aiut ! » Li reis li	dunet	e Rollant l'a reçut. Li empereres apelet ses niés Rollant : « Bel
+roland	p. 76, v. 783	aiut ! » Li reis li dunet e Rollant l'a reçut. Li empereres	apelet	ses niés Rollant : « Bel sire niés, or savez veirement Demi mun host
+roland	p. 78, v. 803	els eslisent.XX. milie chevalers. AOI. Li quens Rollant Gualter de l'Hum	apelet	: « Pernez mil Francs de France, nostre tere, Si purpernez les destreiz
+roland	p. 78, v. 806	les destreiz e les tertres, Que l'emperere nis un des soens n'i	perdet	. » AOI. Respunt Gualter : « Pur vos le dei ben faire.
+roland	p. 78, v. 809	ben faire. » Od mil Franceis de France, la lur tere, Gualter	desrenget	les destreit e les tertres : N'en descendrat pur malvaises nuveles Enceis qu'en
+roland	p. 80, v. 820	a la Tere Majur, Virent Guascuigne, la tere lur seignur ; Dunc lur	remembret	des fius e des honurs, E des pulcele e des gentilz oixurs ; Cel
+roland	p. 80, v. 825	As porz d'Espaigne ad lesset sun nevold. Pitet l'en prent, ne	poet	muer n'en plurt. AOI. Li.XII. per sunt remés en Espaigne.
+roland	p. 80, v. 829	lur cumpaigne, Nen unt poür ne de murir dutance. Li emperere s'en	repairet	en France ; Suz sun mantel en fait la cuntenance. Dejuste lui li dux
+roland	p. 80, v. 831	France ; Suz sun mantel en fait la cuntenance. Dejuste lui li dux Neimes	chevalchet	E dit al rei : « De quei avez pesance ? » Carles respunt :
+roland	p. 80, v. 833	« De quei avez pesance ? » Carles respunt : « Tort fait kil me	demandet	! Si grant doel ai ne puis muer nel pleigne. Par Guenelun serat destruite
+roland	p. 82, v. 841	pert, ja n'en avrai escange. » AOI. Carles li magnes ne	poet	muer n'en plurt..C. milie Francs pur lui unt grant tendrur E de
+roland	p. 82, v. 848	argent, palies e ciclatuns, Muls e chevals e cameilz e leuns. Marsilies	mandet	d'Espaigne les baruns, Cuntes, vezcuntes e dux e almaçurs, Les amirafles
+roland	p. 82, v. 851	e almaçurs, Les amirafles e les filz as cunturs :.IIII. C. milie en	ajustet	en.III. jurz ; En Sarraguce fait suner ses taburs. Mahumet levent en la
+roland	p. 84, v. 875	. AOI. Li niés Marsilies tient le guant en sun poign ; Sun uncle	apelet	de mult fiere raisun : « Bel sire reis, fait m'avez un grant
+roland	p. 84, v. 891	; Plus curt a piet que ne fait un cheval. Devant Marsilie cil s'	escriet	mult halt : « Jo cunduirai mun cors en Rencesvals ; Se truis Rollant,
+roland	p. 86, v. 915	, de mort li duins fiance. Jamais n'ert jor que Carles ne se	pleignet	. » AOI. D'altre part est Turgis de Turteluse ; Cil est uns
+roland	p. 86, v. 919	sue. De chrestïens voelt faire male vode, Devant Marsilie as altres si s'	ajustet	; Ço dist al rei : « Ne vos esmaiez unches ! Plus valt Mahum
+roland	p. 88, v. 933	de Valterne ; Sarrazins est, si est sue la tere. Devant Marsilie s'	escriet	en la presse : « En Rencesvals irai l'orgoill desfaire. Se trois Rollant
+roland	p. 88, v. 936	trois Rollant, n'en porterat la teste, Ne Oliver, ki les altres	cadelet	. Li.XII. per tuit sunt jugez a perdre. Franceis murrunt e France en
+roland	p. 88, v. 958	Pur sa beltet dames li sunt amies ; Cele nel veit vers lui ne s'	esclargisset	; Quant ele le veit, ne poet muer ne riet ; N'i ad
+roland	p. 88, v. 959	Cele nel veit vers lui ne s'esclargisset ; Quant ele le veit, ne	poet	muer ne riet ; N'i ad paien de tel chevalerie. Vint en la
+roland	p. 88, v. 959	vers lui ne s'esclargisset ; Quant ele le veit, ne poet muer ne	riet	; N'i ad paien de tel chevalerie. Vint en la presse, sur
+roland	p. 88, v. 961	ad paien de tel chevalerie. Vint en la presse, sur les altres s'	escriet	E dist al rei : « Ne vos esmaiez mie ! En Rencesvals irai Rollant
+roland	p. 90, v. 974	saisie ; Gesir porrum el burc de seint Denise » Li reis paiens parfundement l'	enclinet	. AOI. De l'altre part est Chernubles de Munigre. Josqu'a la
+roland	p. 90, v. 977	Chernubles de Munigre. Josqu'a la tere si chevoel li balient. Greignor fais	portet	par giu, quant il s'enveiset, Que.IIII. mulez ne funt, quant
+roland	p. 90, v. 977	tere si chevoel li balient. Greignor fais portet par giu, quant il s'	enveiset	, Que.IIII. mulez ne funt, quant il sumeient. Icele tere, ço
+roland	p. 90, v. 980	ço dit, dun il esteit, Soleill n'i luist ne blet n'i	poet	pas creistre, Pluie n'i chet, rusee n'i adeiset, Piere n'
+roland	p. 90, v. 981	Soleill n'i luist ne blet n'i poet pas creistre, Pluie n'i	chet	, rusee n'i adeiset, Piere n'i ad que tute ne seit neire
+roland	p. 90, v. 981	blet n'i poet pas creistre, Pluie n'i chet, rusee n'i	adeiset	, Piere n'i ad que tute ne seit neire : Dient alquanz que dïables
+roland	p. 92, v. 1018	n'en serat ja de mei. » AOI. Oliver est desur un pui	Guardet	su destre par mi un val herbus, Si veit venir cele gent paienur,
+roland	p. 94, v. 1034	osbercs safrez, E cil espiez, cil gunfanum fermez. Sul les escheles ne	poet	il acunter : Tant en i ad que mesure n'en set ; E lui
+roland	p. 94, v. 1035	les escheles ne poet il acunter : Tant en i ad que mesure n'en	set	; E lui meïsme en est mult esguaret. Cum il einz pout, del
+roland	p. 94, v. 1050	. Dist Oliver : « Paien unt grant esforz ; De noz Franceis m'i	semblet	aveir mult poi ! Cumpaign Rollant, kar sunez vostre corn : Si l'orrat
+roland	p. 96, v. 1062	, Succurrat nos li reis od sun barnet. » Respont Rollant : « Ne	placet	Damnedeu Que mi parent pur mei seient blasmet Ne France dulce ja cheet en viltet
+roland	p. 96, v. 1064	« Ne placet Damnedeu Que mi parent pur mei seient blasmet Ne France dulce ja	cheet	en viltet ! Einz i ferrai de Durendal asez, Ma bone espee que ai
+roland	p. 96, v. 1073	est as porz passant. Je vos plevis, ja returnerunt Franc. - Ne	placet	Deu, ço li respunt Rollant, Que ço seit dit de nul hume vivant
+roland	p. 96, v. 1089	petite cumpaigne. » Respunt Rollant : « Mis talenz en est graigne. Ne	placet	Damnedeu ne ses angles Que ja pur mei perdet sa valur France ! Melz voeill
+roland	p. 96, v. 1090	talenz en est graigne. Ne placet Damnedeu ne ses angles Que ja pur mei	perdet	sa valur France ! Melz voeill murir que huntage me venget. Pur ben ferir
+roland	p. 96, v. 1091	Que ja pur mei perdet sa valur France ! Melz voeill murir que huntage me	venget	. Pur ben ferir l'emperere plus nos aimet. » Rollant est proz e
+roland	p. 96, v. 1092	Melz voeill murir que huntage me venget. Pur ben ferir l'emperere plus nos	aimet	. » Rollant est proz e Oliver est sage. Ambedui unt merveillus vasselage :
+roland	p. 98, v. 1107	: « Ne dites tel ultrage ! Mal seit del coer ki el piz se	cuardet	! Nus remeindrum en estal en la place ; Par nos i ert e li
+roland	p. 98, v. 1112	veit que bataille serat, Plus se fait fiers que leon ne leupart. Franceis	escriet	, Oliver apelat : « Sire cumpainz, amis, nel dire ja ! Li
+roland	p. 98, v. 1122	bone espee, que li reis me dunat. Se jo i moerc, dire	poet	ki l'avrat que ele fut a noble vassal. » D'altre part est
+roland	p. 98, v. 1125	vassal. » D'altre part est li arcevesques Turpin. Sun cheval broche e	muntet	un lariz ; Franceis apelet, un sermun lur ad dit : « Seignurs baruns
+roland	p. 100, v. 1126	part est li arcevesques Turpin. Sun cheval broche e muntet un lariz ; Franceis	apelet	, un sermun lur ad dit : « Seignurs baruns, Carles nus laissat ci
+roland	p. 100, v. 1138	se sunt mis. E l'arcevesque de Deu les beneïst : Par penitence les	cumandet	a ferir. Franceis se drecent, si se metent sur piez : Ben sunt
+roland	p. 100, v. 1145	sunt a lei de chevalers E de bataille sunt tuit apareillez. Li quens Rollant	apelet	Oliver : « Sire cumpainz, mult ben le savïez, Que Guenelun nos ad
+roland	p. 100, v. 1154	porz d'Espaigne en est passet Rollant Sur Veillantif, sun bon cheval curant.	Portet	ses armes, mult li sunt avenanz, Mais sun espiet vait li bers palmeiant
+roland	p. 102, v. 1162	le vait sivant, E cil de France le cleiment a guarant. Vers Sarrazins	reguardet	fierement E vers Franceis humeles e dulcement, Si lur ad dit un mot curteisement
+roland	p. 102, v. 1173	deignastes suner, Ne de Carlun mie vos n'en avez. Il n'en	set	mot, n'i a culpes li bers. Cil ki la sunt ne funt
+roland	p. 104, v. 1189	les vus ajustez. Li niés Marsilie, il ad num Aëlroth ; Tut premereins	chevalchet	devant l'ost. De noz Franceis vait disant si mals moz : « Feluns
+roland	p. 104, v. 1197	Quant l'ot Rollant, Deus ! si grant doel en out ! Sun cheval	brochet	, laiset curre a esforz, Vait le ferir li quens quanque il pout.
+roland	p. 104, v. 1197	ot Rollant, Deus ! si grant doel en out ! Sun cheval brochet,	laiset	curre a esforz, Vait le ferir li quens quanque il pout. L'escut
+roland	p. 104, v. 1200	quens quanque il pout. L'escut li freint e l'osberc li desclot,	Trenchet	le piz, si li briset les os, Tute l'eschine li desevret del
+roland	p. 104, v. 1200	escut li freint e l'osberc li desclot, Trenchet le piz, si li	briset	les os, Tute l'eschine li desevret del dos, Od sun espiet l'
+roland	p. 104, v. 1201	, Trenchet le piz, si li briset les os, Tute l'eschine li	desevret	del dos, Od sun espiet l'anme li getet fors, Enpeint le ben
+roland	p. 104, v. 1202	, Tute l'eschine li desevret del dos, Od sun espiet l'anme li	getet	fors, Enpeint le ben, fait li brandir le cors, Pleine sa hanste
+roland	p. 106, v. 1220	ad doel quant vit mort sun nevold, Ist de la prese, si se	met	en bandun, E si escriet l'enseigne paienor. Envers Franceis est mult cuntrarius
+roland	p. 106, v. 1221	nevold, Ist de la prese, si se met en bandun, E si	escriet	l'enseigne paienor. Envers Franceis est mult cuntrarius : « Enquoi perdrat France dulce
+roland	p. 106, v. 1225	onur ! » Ot le Oliver, sin ad mult grant irur. Le cheval	brochet	des oriez esperuns, Vait le ferir en guise de baron. L'escut li
+roland	p. 106, v. 1228	baron. L'escut li freint e l'osberc li derumpt, El cors li	met	les pans del gunfanun, Pleine sa hanste l'abat mort des arçuns. Guardet
+roland	p. 106, v. 1230	met les pans del gunfanun, Pleine sa hanste l'abat mort des arçuns.	Guardet	a tere, veit gesir le glutun, Si li ad dit par mult fiere
+roland	p. 106, v. 1234	essoign. Ferez i, Francs, kar trés ben les veintrum ! » Munjoie	escriet	, ço est l'enseigne Carlun. AOI. Uns reis i est, si
+roland	p. 106, v. 1244	» Ben l'entendit li arcevesques Turpin : Suz ciel n'at hume que tant	voeillet	haïr. Sun cheval brochet des esperuns d'or fin, Par grant vertut si
+roland	p. 106, v. 1245	arcevesques Turpin : Suz ciel n'at hume que tant voeillet haïr. Sun cheval	brochet	des esperuns d'or fin, Par grant vertut si l'est alet ferir.
+roland	p. 106, v. 1251	que mort le fait brandir, Pleine sa hanste l'abat mort el chemin.	Guardet	arere, veit le glutun gesir, Ne laisserat que n'i parolt, ço
+roland	p. 108, v. 1257	de fuïr. Voz cumpaignuns feruns trestuz restifs. Nuveles vos di : mort vos	estoet	susfrir. Ferez, Franceis ! Nul de vus ne s'ublit ! Cist premer
+roland	p. 108, v. 1260	ne s'ublit ! Cist premer colp est nostre, Deu mercit ! » Munjoie	escriet	por le camp retenir. E Gerins fiert Malprimis de Brigal. Sis bons escuz
+roland	p. 108, v. 1264	li valt ; Tute li freint la bucle de cristal, L'une meitiet li	turnet	cuntreval ; L'osberc li rumpt entresque a la charn, Sun bon espiet enz
+roland	p. 108, v. 1267	a la charn, Sun bon espiet enz el cors li enbat ; Li paiens	chet	cuntreval a un quat. L'anme de lui en portet Sathanas. AOI.
+roland	p. 108, v. 1268	enbat ; Li paiens chet cuntreval a un quat. L'anme de lui en	portet	Sathanas. AOI. E sis cumpainz Gerers fiert l'amurafle. L'escut li
+roland	p. 108, v. 1270	sis cumpainz Gerers fiert l'amurafle. L'escut li freint e l'osberc li	desmailet	, Sun bon espiet li met en la curaille, Empeint le bien, par
+roland	p. 108, v. 1271	. L'escut li freint e l'osberc li desmailet, Sun bon espiet li	met	en la curaille, Empeint le bien, par mi le cors li passet,
+roland	p. 108, v. 1272	li met en la curaille, Empeint le bien, par mi le cors li	passet	, Que mort l'abat el camp, pleine sa hanste. Dist Oliver :
+roland	p. 108, v. 1278	ad or e a flurs, Li bons osbercs ne li est guarant prod,	Trenchet	li le coer, le firie e le pulmun, Que mort l'abat,
+roland	p. 110, v. 1281	. Dist l'arcevesque : « Cist colp est de baron ! » E Anseïs	laiset	le cheval curre, Si vait ferir Turgis de Turteluse. L'escut li freint
+roland	p. 110, v. 1285	, De sun osberc li derumpit les dubles, Del bon espiet el cors li	met	la mure, Empeinst le ben, tut le fer li mist ultre, Pleine
+roland	p. 110, v. 1287	, tut le fer li mist ultre, Pleine sa hanste el camp mort le	tresturnet	. Ço dist Rollant : « Cist colp est de produme ! » Et Engelers
+roland	p. 110, v. 1290	Cist colp est de produme ! » Et Engelers li Guascuinz de Burdele Sun cheval	brochet	, si li laschet la resne, Si vait ferir Escremiz de Valterne. L'
+roland	p. 110, v. 1290	produme ! » Et Engelers li Guascuinz de Burdele Sun cheval brochet, si li	laschet	la resne, Si vait ferir Escremiz de Valterne. L'escut del col li
+roland	p. 110, v. 1292	, Si vait ferir Escremiz de Valterne. L'escut del col li freint e	escantelet	, De sun osberc li rompit la ventaille, Sil fiert el piz entre les
+roland	p. 110, v. 1299	paien, Estorgans, Sur sun escut en la pene devant, Que tut li	trenchet	le vermeill e le blanc ; De sun osberc li ad rumput les pans,
+roland	p. 110, v. 1301	le blanc ; De sun osberc li ad rumput les pans, El cors li	met	sun bon espiet trechant, Que mort l'abat de sun cheval curant. Aprés
+roland	p. 112, v. 1313	mult vaillant chevalers, E bels e forz e isnels e legers. Le cheval	brochet	, vait ferir Oliver. L'escut li freint suz la bucle d'or mer
+roland	p. 112, v. 1317	. Deus le guarit, qu'ell cors ne l'ad tuchet. La hanste	fruisset	, mie n'en abatiet. Ultre s'en vait, qu'il n'i
+roland	p. 112, v. 1317	qu'ell cors ne l'ad tuchet. La hanste fruisset, mie n'en	abatiet	. Ultre s'en vait, qu'il n'i ad desturber ; Sunet sun
+roland	p. 112, v. 1319	en abatiet. Ultre s'en vait, qu'il n'i ad desturber ;	Sunet	sun gresle pur les soens ralier. La bataille est merveilluse e cumune. Li
+roland	p. 112, v. 1321	ralier. La bataille est merveilluse e cumune. Li quens Rollant mie ne s'	asoüret	, Fiert de l'espiet tant cume hanste li duret ; A.XV. cols l'
+roland	p. 112, v. 1322	quens Rollant mie ne s'asoüret, Fiert de l'espiet tant cume hanste li	duret	; A.XV. cols l'ad fraite e perdue ; Trait Durendal, sa bone
+roland	p. 112, v. 1325	fraite e perdue ; Trait Durendal, sa bone espee, nue, Sun cheval	brochet	, si vait ferir Chernuble. L'elme li freint u li carbuncle luisent,
+roland	p. 112, v. 1327	, si vait ferir Chernuble. L'elme li freint u li carbuncle luisent,	Trenchet	le cors e la cheveleüre, Si li trenchat les oilz e la faiture,
+roland	p. 112, v. 1333	sele, ki est a or batue, El cheval est l'espee aresteüe ;	Trenchet	l'eschine, hunc n'i out quis jointure, Tut abat mort el pred
+roland	p. 114, v. 1338	glutun n'ert bataille oi vencue. » Li quens Rollant par mi le champ	chevalchet	, Tient Durendal, ki ben trenchet e taillet, Des Sarrazins lur fait mult
+roland	p. 114, v. 1339	» Li quens Rollant par mi le champ chevalchet, Tient Durendal, ki ben	trenchet	e taillet, Des Sarrazins lur fait mult grant damage. Ki lui veïst l'
+roland	p. 114, v. 1339	quens Rollant par mi le champ chevalchet, Tient Durendal, ki ben trenchet e	taillet	, Des Sarrazins lur fait mult grant damage. Ki lui veïst l'un geter
+roland	p. 114, v. 1345	Sun bon cheval le col e les espalles. E Oliver de ferir ne se	target	, Li.XII. per n'en deivent aveir blasme, E li Franceis i fierent
+roland	p. 114, v. 1350	i pasment. Dist l'arcevesque : « Ben ait nostre barnage ! » Munjoie	escriet	, ço est l'enseigne Carle. AOI. E Oliver chevalchet par l'estor
+roland	p. 114, v. 1351	! » Munjoie escriet, ço est l'enseigne Carle. AOI. E Oliver	chevalchet	par l'estor, Sa hanste est fraite, n'en ad que un trunçun
+roland	p. 114, v. 1355	freint, ki est ad or e a flur, Fors de la teste li	met	les oilz ansdous, E la cervele li chet as piez desuz ; Mort le
+roland	p. 114, v. 1356	, Fors de la teste li met les oilz ansdous, E la cervele li	chet	as piez desuz ; Mort le tresturnet od tut.VII. C. des lur ; Pois
+roland	p. 114, v. 1357	les oilz ansdous, E la cervele li chet as piez desuz ; Mort le	tresturnet	od tut.VII. C. des lur ; Pois ad ocis Turgis e Esturguz : La
+roland	p. 114, v. 1359	tut.VII. C. des lur ; Pois ad ocis Turgis e Esturguz : La hanste	briset	e esclicet josqu'as poinz. Ço dist Rollant : « Cumpainz, que faites
+roland	p. 114, v. 1359	C. des lur ; Pois ad ocis Turgis e Esturguz : La hanste briset e	esclicet	josqu'as poinz. Ço dist Rollant : « Cumpainz, que faites vos ?
+roland	p. 116, v. 1372	, Justin de Val Ferree. Tute la teste li ad par mi sevree,	Trenchet	le cors e la bronie safree, La bone sele, ki a or est
+roland	p. 116, v. 1377	Ço dist Rollant : « Vos reconois jo, frere ! Por itels colps nos	eimet	li emperere. » De tutes parz est Munjoie escriee. AOI. Li quens
+roland	p. 116, v. 1379	emperere. » De tutes parz est Munjoie escriee. AOI. Li quens Gerins	set	el ceval Sorel E sis cumpainz Gerers en Passecerf. Laschent lor reisnes, brochent
+roland	p. 116, v. 1404	cels de France ki as porz les atendent. AOI. Karles li magnes en	pluret	, si se demente. De ço qui calt ? N'en avrunt sucurance,
+roland	p. 118, v. 1419	en fuit de mort n'i ad guarent ; Voillet o nun, tut i	laisset	sun tens. Franceis i perdent lor meillors guarnemenz. Ne reverrunt lor peres ne
+roland	p. 120, v. 1458	compaign, frere, Guenes li fels ad nostre mort juree. La traïsun ne	poet	estre celee ; Mult grant venjance en prendrat l'emperere. Bataille avrum e forte
+roland	p. 122, v. 1469	gent le martirie, Si fait suner ses cors e ses buisines, Puis si	chevalchet	od sa grant ost banie. Devant chevalchet un Sarrazin, Abisme : Plus fel
+roland	p. 122, v. 1470	cors e ses buisines, Puis si chevalchet od sa grant ost banie. Devant	chevalchet	un Sarrazin, Abisme : Plus fel de lui n'out en sa cumpagnie.
+roland	p. 122, v. 1475	le filz seinte Marie ; Issi est neirs cume peiz ki est demise ; Plus	aimet	il traïsun e murdrie Qu'il ne fesist trestut l'or de Galice ; Unches
+roland	p. 122, v. 1480	mult grant estultie, Por ço est drud al felun rei Marsilie. Sun dragun	portet	a qui sa gent s'alient. Li arcevesque ne l'amerat ja mie ;
+roland	p. 122, v. 1482	arcevesque ne l'amerat ja mie ; Cum il le vit, a ferir le	desiret	. Mult quiement le dit a sei meïsme : « Cel Sarrazin me semblet mult
+roland	p. 122, v. 1484	le desiret. Mult quiement le dit a sei meïsme : « Cel Sarrazin me	semblet	mult herite ; Mielz est mult que jo l'alge ocire. Unches n'amai
+roland	p. 122, v. 1487	alge ocire. Unches n'amai cuard ne cuardie. » AOI. Li arcevesque	cumencet	la bataille. Siet el cheval qu'il tolit a Grossaille, Ço ert uns
+roland	p. 122, v. 1488	n'amai cuard ne cuardie. » AOI. Li arcevesque cumencet la bataille.	Siet	el cheval qu'il tolit a Grossaille, Ço ert uns reis qu'il ocist
+roland	p. 124, v. 1497	teste tute falve ; Beste nen est nule ki encontre lui alge. Li arcevesque	brochet	, par tant grant vasselage ! Ne laisserat qu'Abisme nen asaillet. Vait le
+roland	p. 124, v. 1498	. Li arcevesque brochet, par tant grant vasselage ! Ne laisserat qu'Abisme nen	asaillet	. Vait le ferir en l'escut amiracle : Pierres i ad, ametistes e
+roland	p. 124, v. 1504	Si li tramist li amiralz Galafes. Turpins i fiert, ki nient ne l'	esparignet	, Enprés sun colp ne quid que un dener vaillet, Le cors li trenchet
+roland	p. 124, v. 1505	, ki nient ne l'esparignet, Enprés sun colp ne quid que un dener	vaillet	, Le cors li trenchet trés l'un costet qu'a l'altre, Que
+roland	p. 124, v. 1506	esparignet, Enprés sun colp ne quid que un dener vaillet, Le cors li	trenchet	trés l'un costet qu'a l'altre, Que mort l'abat en une
+roland	p. 126, v. 1534	ço dit, metrat a hunte, A l'emperere si toldrat la curone.	Siet	el ceval qu'il cleimet Barbamusche, Plus est isnels que esprever ne arunde.
+roland	p. 126, v. 1534	hunte, A l'emperere si toldrat la curone. Siet el ceval qu'il	cleimet	Barbamusche, Plus est isnels que esprever ne arunde. Brochet le bien, le
+roland	p. 126, v. 1536	el ceval qu'il cleimet Barbamusche, Plus est isnels que esprever ne arunde.	Brochet	le bien, le frein li abandunet, Si vait ferir Engeler de Guascoigne.
+roland	p. 126, v. 1536	Plus est isnels que esprever ne arunde. Brochet le bien, le frein li	abandunet	, Si vait ferir Engeler de Guascoigne. Nel poet guarir sun escut ne sa
+roland	p. 126, v. 1538	bien, le frein li abandunet, Si vait ferir Engeler de Guascoigne. Nel	poet	guarir sun escut ne sa bronie : De sun espiet el cors li met la
+roland	p. 126, v. 1539	Nel poet guarir sun escut ne sa bronie : De sun espiet el cors li	met	la mure, Empeint le ben, tut le fer li mist ultre, Pleine
+roland	p. 126, v. 1541	, tut le fer li mist ultre, Pleine sa hanste el camp mort le	tresturnet	. Aprés escriet : « Cist sunt bon a cunfundre ! Ferez, paien,
+roland	p. 126, v. 1542	fer li mist ultre, Pleine sa hanste el camp mort le tresturnet. Aprés	escriet	: « Cist sunt bon a cunfundre ! Ferez, paien, pur la presse
+roland	p. 126, v. 1545	« Deus, quel doel de prodome ! » AOI. Li quens Rollant en	apelet	Oliver : « Sire cumpainz, ja est morz Engeler ; Nus n'avïum plus
+roland	p. 126, v. 1549	» Respont li quens : « Deus le me doinst venger ! » Sun cheval	brochet	des esperuns d'or mier, Tient Halteclere, sanglent en est l'acer,
+roland	p. 126, v. 1552	, Par grant vertut vait ferir le paien. Brandist sun colp e li Sarrazins	chiet	; L'anme de lui en portent aversers. Puis ad ocis le duc Alphaïen
+roland	p. 126, v. 1561	a preiser. Pur itels colps nos ad Charles plus cher. » A voiz	escriet	: « Ferez i, chevaler ! » AOI. D'altre part est un
+roland	p. 128, v. 1571	ot fïance del cunte Guenelon : Il li dunat s'espee e mil manguns.	Siet	el cheval qu'il cleimet Gramimund, Plus est isnels que nen est uns falcuns
+roland	p. 128, v. 1571	: Il li dunat s'espee e mil manguns. Siet el cheval qu'il	cleimet	Gramimund, Plus est isnels que nen est uns falcuns. Brochet le bien des
+roland	p. 128, v. 1573	cheval qu'il cleimet Gramimund, Plus est isnels que nen est uns falcuns.	Brochet	le bien des aguz esperuns, Si vait ferir li riche duc Sansun. L'
+roland	p. 128, v. 1576	Sansun. L'escut li freint e l'osberc li derumpt, El cors li	met	les pans del gunfanun, Pleine sa hanste l'abat mort des arçuns : «
+roland	p. 128, v. 1582	veit Sansun mort, Poëz saveir que mult grant doel en out. Sun ceval	brochet	, si li curt ad esforz. Tient Durendal, qui plus valt que fin
+roland	p. 128, v. 1586	, quanque il pout, Desur sun elme, ki gemmet fut ad or,	Trenchet	la teste e la bronie e le cors, La bone sele, ki est
+roland	p. 128, v. 1597	sunt tut a or batud : Cuntre le ciel sur tuz les altres luist.	Siet	el ceval qu'il cleimet Salt Perdut : Beste nen est ki poisset curre a
+roland	p. 128, v. 1597	: Cuntre le ciel sur tuz les altres luist. Siet el ceval qu'il	cleimet	Salt Perdut : Beste nen est ki poisset curre a lui. Il vait ferir
+roland	p. 128, v. 1598	luist. Siet el ceval qu'il cleimet Salt Perdut : Beste nen est ki	poisset	curre a lui. Il vait ferir Anseïs en l'escut : Tut li trenchat
+roland	p. 130, v. 1602	l'azur ; De sun osberc li ad les pans rumput, El cors li	met	e le fer e le fust ; Morz est li quens, de sun tens
+roland	p. 130, v. 1615	part est un paien, Grandonies, Filz Capuel, le rei de Capadoce.	Siet	el cheval que il cleimet Marmorie, Plus est isnels que n'est oisel ki
+roland	p. 130, v. 1615	Grandonies, Filz Capuel, le rei de Capadoce. Siet el cheval que il	cleimet	Marmorie, Plus est isnels que n'est oisel ki volet. Laschet la resne
+roland	p. 130, v. 1616	el cheval que il cleimet Marmorie, Plus est isnels que n'est oisel ki	volet	. Laschet la resne, des esperuns le brochet, Si vait ferir Gerin par
+roland	p. 130, v. 1617	que il cleimet Marmorie, Plus est isnels que n'est oisel ki volet.	Laschet	la resne, des esperuns le brochet, Si vait ferir Gerin par sa grant
+roland	p. 130, v. 1617	isnels que n'est oisel ki volet. Laschet la resne, des esperuns le	brochet	, Si vait ferir Gerin par sa grant force. L'escut vermeill li freint
+roland	p. 130, v. 1619	Gerin par sa grant force. L'escut vermeill li freint, de col li	portet	; Aprof li ad sa bronie desclose, El cors li met tute l'enseingne
+roland	p. 130, v. 1621	de col li portet ; Aprof li ad sa bronie desclose, El cors li	met	tute l'enseingne bloie, Que mort l'abat en une halte roche. Sun
+roland	p. 130, v. 1631	Ben ad oït que Franceis se dementent ; Si grant doel ad que par mi	quïet	fendre ; Dist al paien : « Deus tut mal te consente ! Tel as
+roland	p. 130, v. 1634	consente ! Tel as ocis que mult cher te quid vendre ! » Sun ceval	brochet	, ki oït del cuntence. Ki quel cumpert, venuz en sunt ensemble.
+roland	p. 132, v. 1642	e al cors qu'il out gent E al reguart e al contenement : Ne	poet	müer qu'il ne s'en espaent. Fuïr s'en voel, mais ne
+roland	p. 132, v. 1646	Li quens le fiert tant vertuusement Tresqu'al nasel tut le elme li fent,	Trenchet	le nes e la buche e les denz, Trestut le cors e l'osberc
+roland	p. 132, v. 1657	vestemenz entresque as chars vives. Sur l'herbe verte li cler sancs s'en	afilet	: « Tere Major, Mahumet te maldie ! Sur tute gent est la tue
+roland	p. 132, v. 1661	Sur tute gent est la tue hardie. » Cel nen i ad ki ne	criet	: « Marsilie ! Cevalche, rei, Bosuign avum d'aïe ! » La
+roland	p. 134, v. 1671	le camp. Par vive force les encacerent Franc. AOI. Li quens Rollant	apelet	Oliver : « Sire cumpaign, sel volez otrier, Li arcevesque est mult bon
+roland	p. 134, v. 1675	mult bon chevaler, N'en ad meillor en tere ne suz cel ; Ben	set	ferir e de lance e d'espiet. » Respunt li quens : « Kar
+roland	p. 134, v. 1683	arcevesque i fiert de sun espiet. Cels qu'il unt mort, ben les	poet	hom preiser, Il est escrit es cartres e es brefs, Ço dit la
+roland	p. 134, v. 1692	. Li quens Rollant des soens i veit grant perte, Sun cumpaignun Oliver en	apelet	: « Bel sire, chers cumpainz, pur Deu, que vos en haitet
+roland	p. 134, v. 1693	apelet : « Bel sire, chers cumpainz, pur Deu, que vos en	haitet	? Tanz bons vassals veez gesir par tere ! Pleindre poüms France dulce, la
+roland	p. 138, v. 1738	gref la departie. » AOI. Li arcevesques les ot cuntrarïer, Le cheval	brochet	des esperuns d'or mer, Vint tresqu'a els, sis prist a castïer
+roland	p. 138, v. 1744	li corners ne nos avreit mester, Mais nepurquant si est il asez melz :	Venget	li reis, si nus purrat venger ; Ja cil d'Espaigne ne s'en
+roland	p. 138, v. 1754	mis l'olifan a sa buche, Empeint le ben, par grant vertut le	sunet	. Halt sunt li pui e la voiz est mult lunge, Granz.XXX. liwes
+roland	p. 140, v. 1762	AOI. Li quens Rollant, par peine e par ahans, Par grant dulor	sunet	sun olifan. Par mi la buche en salt fors li cler sancs. De
+roland	p. 140, v. 1774	enfant. Asez savez le grant orgoill Rollant ; Ço est merveille que Deus le	soefret	tant. Ja prist il Noples seinz le vostre comant ; Fors s'en eissirent
+roland	p. 140, v. 1787	la buche sanglente, De sun cervel rumput en est li temples. L'olifan	sunet	a dulor e a peine. Karles l'oït e ses Franceis l'entendent.
+roland	p. 140, v. 1792	i ad, par le men escïentre. Cil l'at traït ki vos en	roevet	feindre. Adubez vos, si criez vostre enseigne, Si sucurez vostre maisnee gente
+roland	p. 142, v. 1795	criez vostre enseigne, Si sucurez vostre maisnee gente : Asez oez que Rollant se	dementet	! » Li empereres ad fait suner ses corns. Franceis descendent, si adubent
+roland	p. 142, v. 1812	sunt peinz a flurs, E cil espiez, cil oret gunfanun. Li empereres	cevalchet	par irur E li Franceis dolenz e curoçus ; N'i ad celoi ki durement
+roland	p. 142, v. 1818	Guenelun, Sil cumandat as cous de sa maisun. Tut li plus maistre en	apelet	, Besgun : « Ben le me guarde, si cume tel felon ! De
+roland	p. 142, v. 1821	! De ma maisnee ad faite traïsun. » Cil le receit, s'i	met	.C. cumpaignons De la quisine, des mielz e des peiurs. Icil li peilent
+roland	p. 144, v. 1834	cil graisle e derere e devant E tuit rachatent encuntre l'olifant. Li empereres	chevalchet	ireement E li Franceis curuçus e dolent ; N'i ad celoi n'i plurt
+roland	p. 144, v. 1837	i ad celoi n'i plurt e se dement, E prient Deu qu'il	guarisset	Rollant Josque il vengent el camp cumunement : Ensembl'od lui i ferrunt veirement.
+roland	p. 144, v. 1842	Demurent trop, n'i poedent estre a tens. AOI. Par grant irur	chevalchet	li reis Charles ; Desur sa brunie li gist sa barbe blanche. Puignent ad
+roland	p. 144, v. 1851	sa cumpaigne ! Unches meillurs n'en out reis ne cataignes. AOI. Rollant	reguardet	es munz e es lariz ; De cels de France i veit tanz morz gesir
+roland	p. 144, v. 1853	lariz ; De cels de France i veit tanz morz gesir, E il les	pluret	cum chevaler gentill : « Seignors barons, de vos ait Deus mercit ! Tutes
+roland	p. 144, v. 1856	Deus mercit ! Tutes voz anmes otreit il pareïs, En saintes flurs il les	facet	gesir ! Meillors vassals de vos unkes ne vi. Si lungement tuz tens m'
+roland	p. 146, v. 1873	E.XXIIII. de tuz les melz preisez : Ja mais n'iert home plus se	voeillet	venger. Si cum li cerfs s'en vait devant les chiens, Devant Rollant
+roland	p. 146, v. 1878	arcevesque : « Asez le faites ben ! Itel valor deit aveir chevaler Ki armes	portet	e en bon cheval set : En bataille deit estre forz e fiers, U
+roland	p. 146, v. 1878	faites ben ! Itel valor deit aveir chevaler Ki armes portet e en bon cheval	set	: En bataille deit estre forz e fiers, U altrement ne valt.IIII. deners
+roland	p. 146, v. 1886	unt Francs recumencet. Mult grant damage i out de chrestïens. Home ki ço	set	que ja n'avrat prisun En tel bataill fait grant defensïon : Pur ço sunt
+roland	p. 146, v. 1890	sunt Francs si fiers cume leuns. As vus Marsilie en guise de barunt.	Siet	el cheval qu'il apelet Gaignun, Brochet le ben, si vait ferir Bevon
+roland	p. 146, v. 1890	leuns. As vus Marsilie en guise de barunt. Siet el cheval qu'il	apelet	Gaignun, Brochet le ben, si vait ferir Bevon : Icil ert sire de
+roland	p. 146, v. 1891	vus Marsilie en guise de barunt. Siet el cheval qu'il apelet Gaignun,	Brochet	le ben, si vait ferir Bevon : Icil ert sire de Belne e de
+roland	p. 150, v. 1944	« L'empereor ad tort. » Li Marganices sist sur un ceval sor,	Brochet	le ben des esperuns a or, Fiert Oliver derere en mi le dos.
+roland	p. 150, v. 1955	Fiert Marganices sur l'elme a or, agut, E flurs e cristaus en	acraventet	jus ; Trenchet la teste d'ici qu'as denz menuz, Brandist sun colp
+roland	p. 150, v. 1956	l'elme a or, agut, E flurs e cristaus en acraventet jus ;	Trenchet	la teste d'ici qu'as denz menuz, Brandist sun colp, si l'
+roland	p. 150, v. 1964	aies tolut, Ne fait damage ne de mei ne d'altrui. » Aprés	escriet	Rollant qu'il li aiut. AOI. Oliver sent qu'il est a mort
+roland	p. 152, v. 1968	ne li ert sez. En la grant presse or i fiert cume ber,	Trenchet	cez hanstes e cez escuz buclers E piez e poinz e seles e costez.
+roland	p. 152, v. 1974	vassal li poüst remembrer. L'enseigne Carle n'i volt mie ublïer : Munjoie	escriet	e haltement e cler ; Rollant apelet, sun ami e sun per : «
+roland	p. 152, v. 1975	Carle n'i volt mie ublïer : Munjoie escriet e haltement e cler ; Rollant	apelet	, sun ami e sun per : « Sire cumpaign, a mei car vus
+roland	p. 152, v. 1978	car vus justez ! A grant dulor ermes hoi desevrez. » AOI. Rollant	reguardet	Oliver al visage ; Teint fut e pers, desculuret e pale. Li sancs
+roland	p. 152, v. 1980	pers, desculuret e pale. Li sancs tuz clers par mi le cors li	raiet	; Encuntre tere en cheent les esclaces. « Deus, dist li quens,
+roland	p. 152, v. 1984	Sire cumpainz, mar fut vostre barnage ! Jamais n'iert hume ki tun cors	cuntrevaillet	. E ! France dulce, cun hoi remendras guaste De bons vassals, cunfundue
+roland	p. 152, v. 1988	Li emperere en avrat grant damage. » A icest mot sur sun cheval se	pasmet	. AOI. As vus Rollant sur sun cheval pasmet E Oliver ki est a
+roland	p. 152, v. 1992	. Tant ad seinet li oil li sunt trublet. Ne loinz ne prés ne	poet	vedeir si cler Que reconoistre poisset nuls hom mortel. Sun cumpaignun, cum il
+roland	p. 152, v. 1993	li sunt trublet. Ne loinz ne prés ne poet vedeir si cler Que reconoistre	poisset	nuls hom mortel. Sun cumpaignun, cum il l'at encuntret, Sil fiert
+roland	p. 152, v. 1996	at encuntret, Sil fiert amunt sur l'elme a or gemet, Tut li	detrenchet	d'ici qu'al nasel ; Mais en la teste ne l'ad mie adeset
+roland	p. 154, v. 1999	l'ad mie adeset. A icel colp l'ad Rollant reguardet, Si li	demandet	dulcement e suef : « Sire cumpain, faites le vos de gred ? Ja
+roland	p. 154, v. 2010	Par tel amur as les vus desevred. Oliver sent que la mort mult l'	angoisset	. Ansdous les oilz en la teste li turnent, L'oïe pert e la
+roland	p. 154, v. 2013	oïe pert e la veüe tute ; Descent a piet, a la tere se	culchet	, Durement en halt si recleimet sa culpe, Cuntre le ciel ambesdous ses mains
+roland	p. 154, v. 2014	; Descent a piet, a la tere se culchet, Durement en halt si	recleimet	sa culpe, Cuntre le ciel ambesdous ses mains juintes, Si priet Deu que
+roland	p. 154, v. 2016	halt si recleimet sa culpe, Cuntre le ciel ambesdous ses mains juintes, Si	priet	Deu que pareïs li dunget E beneïst Karlun e France dulce, Sun cumpaignun Rollant
+roland	p. 154, v. 2016	, Cuntre le ciel ambesdous ses mains juintes, Si priet Deu que pareïs li	dunget	E beneïst Karlun e France dulce, Sun cumpaignun Rollant sur tuz humes. Falt
+roland	p. 154, v. 2019	Sun cumpaignun Rollant sur tuz humes. Falt li le coer, le helme li	embrunchet	, Trestut le cors a la tere li justet. Morz est li quens,
+roland	p. 154, v. 2020	le coer, le helme li embrunchet, Trestut le cors a la tere li	justet	. Morz est li quens, que plus ne se demuret. Rollant li ber
+roland	p. 154, v. 2021	a la tere li justet. Morz est li quens, que plus ne se	demuret	. Rollant li ber le pluret, sil duluset ; Ja mais en tere n'
+roland	p. 154, v. 2022	Morz est li quens, que plus ne se demuret. Rollant li ber le	pluret	, sil duluset ; Ja mais en tere n'orrez plus dolent hume. Or
+roland	p. 154, v. 2022	quens, que plus ne se demuret. Rollant li ber le pluret, sil	duluset	; Ja mais en tere n'orrez plus dolent hume. Or veit Rollant que
+roland	p. 156, v. 2031	tu es mor, dulur est que jo vif. » A icest mot se	pasmet	li marchis Sur sun ceval que cleimet Veillantif. Afermet est a ses estreus d'
+roland	p. 156, v. 2032	jo vif. » A icest mot se pasmet li marchis Sur sun ceval que	cleimet	Veillantif. Afermet est a ses estreus d'or fin : Quel part qu'il
+roland	p. 156, v. 2034	est a ses estreus d'or fin : Quel part qu'il alt, ne	poet	mie chaïr. Ainz que Rollant se seit aperceüt, De pasmeisuns guariz ne revenuz
+roland	p. 156, v. 2043	s'i est cumbatuz ; Mort sunt si hume, sis unt paiens vencut ;	Voeillet	o nun, desuz cez vals s'en fuit, Si reclaimet Rollant, qu'
+roland	p. 156, v. 2044	paiens vencut ; Voeillet o nun, desuz cez vals s'en fuit, Si	reclaimet	Rollant, qu'il li aiut : « E ! gentilz quens, vaillanz hom
+roland	p. 156, v. 2055	me sui vendut. » A icel mot l'at Rollant entendut ; Le cheval	brochet	, si vient poignant vers lui. AOI. Rollant ad doel, si fut
+roland	p. 158, v. 2057	. AOI. Rollant ad doel, si fut maltalentifs ; En la grant presse	cumencet	a ferir. De cels d'Espaigne en ad getet mort.XX., E Gualter
+roland	p. 158, v. 2082	; Dedesuz lui ocient sun destrer. Or est grant doel, quant l'arcevesque	chiet	. AOI. Turpins de Reins, quant se sent abatut, De.IIII. espiez
+roland	p. 158, v. 2086	.IIII. espiez par mi le cors ferut, Isnelement li ber resailit sus ; Rollant	reguardet	, puis si li est curut, E dist un mot : « Ne sui
+roland	p. 158, v. 2092	Puis le dist Carles qu'il n'en esparignat nul : Tels.IIII. cenz i	troevet	entur lui, Alquanz nafrez, alquanz par mi ferut, S'i out d'
+roland	p. 160, v. 2098	fait vertuz, E fist la chartre el muster de Loüm. Ki tant ne	set	, ne l'ad prod entendut. Li quens Rollant gentement se cumbat, Mais
+roland	p. 160, v. 2115	altre : « Karlun avrum nus ja ! » Dient paien : « L'emperere	repairet	: AOI. De cels de France oëz suner les graisles ! Se Carles vient
+roland	p. 160, v. 2118	Carles vient, de nus i avrat perte. Se Rollant vit, nostre guerre	novelet	, Perdud avuns Espaigne, nostre tere. » Tels.IIII. cenz s'en asemblent
+roland	p. 162, v. 2127	fort e fier e maneviz ! Ne lur lerat tant cum il serat vif.	Siet	el cheval qu'om cleimet Veillantif, Brochet le bien des esperuns d'or fin
+roland	p. 162, v. 2127	! Ne lur lerat tant cum il serat vif. Siet el cheval qu'om	cleimet	Veillantif, Brochet le bien des esperuns d'or fin, En la grant presse
+roland	p. 162, v. 2128	lerat tant cum il serat vif. Siet el cheval qu'om cleimet Veillantif,	Brochet	le bien des esperuns d'or fin, En la grant presse les vait tuz
+roland	p. 162, v. 2133	vus traiez, ami ! De cels de France les corns avuns oït : Carles	repairet	, li reis poësteïfs. » Li quens Rollant unkes n'amat cuard, Ne
+roland	p. 162, v. 2145	» Dist l'arcevesque : « Fel seit ki ben n'i ferrat ! Carles	repairet	, ki ben nus vengerat. » Paien dient : « Si mare fumes nez
+roland	p. 162, v. 2149	jurz nus est hoi ajurnez ! Perdut avum noz seignurs e noz pers ; Carles	repeiret	od sa grant ost, li ber ; De cels de France odum les graisles
+roland	p. 164, v. 2168	quens Rollant nes ad dunt encalcer : Perdut i ad Veillantif, sun destrer ;	Voellet	o nun, remés i est a piet. A l'arcevesque Turpin alat aider
+roland	p. 164, v. 2184	camp est vostre, mercit Deu, vostre e mien. » Rollant s'en	turnet	, par le camp vait tut suls, Cercet les vals e si cercet les
+roland	p. 164, v. 2185	mien. » Rollant s'en turnet, par le camp vait tut suls,	Cercet	les vals e si cercet les munz. Iloec truvat Gerin e Gerer sun cumpaignun
+roland	p. 164, v. 2185	en turnet, par le camp vait tut suls, Cercet les vals e si	cercet	les munz. Iloec truvat Gerin e Gerer sun cumpaignun, E si truvat Berenger
+roland	p. 164, v. 2193	venuz a tut, Sis mist en reng dedevant ses genuilz. Li arcevesque ne	poet	muer n'en plurt, Lievet sa main, fait sa beneïçun. Aprés ad
+roland	p. 164, v. 2194	en reng dedevant ses genuilz. Li arcevesque ne poet muer n'en plurt,	Lievet	sa main, fait sa beneïçun. Aprés ad dit : « Mare fustes,
+roland	p. 164, v. 2197	fustes, seignurs ! Tutes voz anmes ait Deus li Glorius, En pareïs les	metet	en sentes flurs ! La meie mort me rent si anguissus ! Ja ne verrai
+roland	p. 166, v. 2200	rent si anguissus ! Ja ne verrai le riche empereür. » Rollant s'en	turnet	, le camp vait recercer, Sun cumpaignun ad truvet, Oliver. Encuntre sun
+roland	p. 166, v. 2203	truvet, Oliver. Encuntre sun piz estreit l'ad embracet ; Si cum il	poet	a l'arcevesque en vent, Sur un escut l'ad as altres culchet,
+roland	p. 166, v. 2206	ad as altres culchet, E l'arcevesque l'ad asols e seignet. Idunc	agreget	le doel e la pitet. Ço dit Rollant : « Bels cumpainz Oliver,
+roland	p. 166, v. 2217	ses pers E Oliver, qu'il tant poeit amer, Tendrur en out,	cumencet	a plurer. En sun visage fut mult desculurez ; Si grant doel out que
+roland	p. 166, v. 2220	visage fut mult desculurez ; Si grant doel out que mais ne pout ester :	Voeillet	o nun, a tere chet pasmet. Dist l'arcevesque : « Tant mare
+roland	p. 166, v. 2220	grant doel out que mais ne pout ester : Voeillet o nun, a tere	chet	pasmet. Dist l'arcevesque : « Tant mare fustes, ber ! » Li
+roland	p. 166, v. 2227	; Aler i volt, sin durrat a Rollant. Sun petit pas s'en	turnet	cancelant. Il est si fieble qu'il ne poet en avant ; N'en
+roland	p. 168, v. 2228	Sun petit pas s'en turnet cancelant. Il est si fieble qu'il ne	poet	en avant ; N'en ad vertut, trop ad perdut del sanc. Einz
+roland	p. 168, v. 2234	i vait mult angoissant. Li quens Rollant revient de pasmeisuns : Sur piez se	drecet	, mais il ad grant dulur. Guardet aval e si guardet amunt : Sur
+roland	p. 168, v. 2235	revient de pasmeisuns : Sur piez se drecet, mais il ad grant dulur.	Guardet	aval e si guardet amunt : Sur l'erbe verte, ultre ses cumpaignuns,
+roland	p. 168, v. 2235	Sur piez se drecet, mais il ad grant dulur. Guardet aval e si	guardet	amunt : Sur l'erbe verte, ultre ses cumpaignuns, La veit gesir le
+roland	p. 168, v. 2239	nobilie barun, Ço est l'arcevesque, que Deus mist en sun num.	Cleimet	sa culpe, si reguardet amunt, Cuntre le ciel amsdous ses mains ad juinz
+roland	p. 168, v. 2239	l'arcevesque, que Deus mist en sun num. Cleimet sa culpe, si	reguardet	amunt, Cuntre le ciel amsdous ses mains ad juinz, Si priet Deu que
+roland	p. 168, v. 2241	, si reguardet amunt, Cuntre le ciel amsdous ses mains ad juinz, Si	priet	Deu que pareïs li duinst. Morz est Turpin, le guerreier Charlun. Par
+roland	p. 168, v. 2251	les dous furceles, Cruisiedes ad ses blanches mains, les beles. Forment le	pleignet	a la lei de sa tere : « E ! gentilz hom, chevaler de
+roland	p. 170, v. 2261	prés : Par les oreilles fors s'e ist la cervel. De ses pers	priet	Deu ques apelt, E pois de lui a l'angle Gabriel. Prist l'
+roland	p. 170, v. 2265	en ait, E Durendal s'espee en l'altre main. Dun arcbaleste ne	poet	traire un quarrel, Devers Espaigne en vait en un guaret ; Muntet un tertre
+roland	p. 170, v. 2267	arcbaleste ne poet traire un quarrel, Devers Espaigne en vait en un guaret ;	Muntet	un tertre ; desuz un arbres bel, Quatre perruns i ad, de marbre
+roland	p. 170, v. 2273	perruns i ad luisant de marbre. Sur l'erbe verte li quens Rollant se	pasmet	. Uns Sarrazins tute veie l'esguardet, Si se feinst mort, si gist
+roland	p. 170, v. 2274	Sur l'erbe verte li quens Rollant se pasmet. Uns Sarrazins tute veie l'	esguardet	, Si se feinst mort, si gist entre les altres. Del sanc luat
+roland	p. 170, v. 2277	si gist entre les altres. Del sanc luat sun cors e sun visage.	Met	sei en piez e de curre s'astet. Bels fut e forz e de
+roland	p. 170, v. 2277	luat sun cors e sun visage. Met sei en piez e de curre s'	astet	. Bels fut e forz e de grant vasselage ; Par sun orgoill cumencet mortel
+roland	p. 170, v. 2279	s'astet. Bels fut e forz e de grant vasselage ; Par sun orgoill	cumencet	mortel rage : Rollant saisit e sun cors e ses armes E dist un mot
+roland	p. 172, v. 2289	ne volt, Sil fiert en l'elme, ki gemmet fut a or ;	Fruisset	l'acer e la teste e les os, Amsdous les oilz del chef li
+roland	p. 172, v. 2294	, ne a dreit ne a tort ? Ne l'orrat hume ne t'en	tienget	por fol. Fenduz en est mis olifans el gros, Caiuz en est li
+roland	p. 172, v. 2298	li cristals e li ors. » Ço sent Rollant la veüe ad perdue,	Met	sei sur piez, quanqu'il poet s'esvertuet ; En sun visage sa culur
+roland	p. 172, v. 2298	Ço sent Rollant la veüe ad perdue, Met sei sur piez, quanqu'il	poet	s'esvertuet ; En sun visage sa culur ad perdue. Dedevant lui ad une
+roland	p. 172, v. 2298	Rollant la veüe ad perdue, Met sei sur piez, quanqu'il poet s'	esvertuet	; En sun visage sa culur ad perdue. Dedevant lui ad une perre byse
+roland	p. 172, v. 2302	par doel e par rancune. Cruist li acers, ne freint ne ne s'	esgruignet	. « E ! dist li quens, seinte Marie, aiüe ! E !
+roland	p. 172, v. 2309	tient, ki la barbe ad canue ! Ne vos ait hume ki pur altre	fuiet	! Mult bon vassal vos ad lung tens tenue. Ja mais n'ert tel
+roland	p. 172, v. 2313	asolue. » Rollant ferit el perrun de sardonie. Cruist li acers, ne	briset	ne n'esgrunie. Quant il ço vit que n'en pout mie freindre,
+roland	p. 174, v. 2315	Quant il ço vit que n'en pout mie freindre, A sei meïsme la	cumencet	a pleindre : « E ! Durendal, cum es bele e clere e blanche
+roland	p. 174, v. 2330	, dunt il out la fïance, E en Saisonie fait il ço qu'il	demandet	; Jo l'en cunquis e Escoce e Vales Islonde E Engletere, que il
+roland	p. 174, v. 2340	Plus en abat que jo ne vos sai dire. L'espee cruist, ne	fruisset	ne ne brise, Cuntre ciel amunt est resortie. Quant veit li quens que
+roland	p. 176, v. 2351	paiens te baillisent ; De chrestïens devez estre servie. Ne vos ait hume ki	facet	cuardie ! Mult larges teres de vus avrai cunquises, Que Carles tent, ki
+roland	p. 176, v. 2359	alet curant, Sur l'erbe verte s'i est culchet adenz, Desuz lui	met	s'espee e l'olifan, Turnat sa teste vers la paiene gent : Pur
+roland	p. 176, v. 2362	la paiene gent : Pur ço l'ad fait que il voelt veirement Que Carles	diet	e trestute sa gent, Li gentilz quens, qu'il fut mort cunquerant.
+roland	p. 176, v. 2364	e trestute sa gent, Li gentilz quens, qu'il fut mort cunquerant.	Cleimet	sa culpe e menut e suvent, Pur ses pecchez Deu en puroffrid lo guant
+roland	p. 178, v. 2381	humes de sun lign, De Carlemagne, sun seignor, kil nurrit ; Ne	poet	muer n'en plurt e ne suspirt. Mais lui meïsme ne volt mettre en
+roland	p. 178, v. 2383	en plurt e ne suspirt. Mais lui meïsme ne volt mettre en ubli,	Cleimet	sa culpe, si priet Deu mercit : « Veire Patene, ki unkes ne
+roland	p. 178, v. 2383	. Mais lui meïsme ne volt mettre en ubli, Cleimet sa culpe, si	priet	Deu mercit : « Veire Patene, ki unkes ne mentis, Seint Lazaron de
+roland	p. 182, v. 2402	ne plein pied, Que il n'i ait o Franceis o paien. Carles	escriet	: « U estes vos, bels niés ? U est l'arcevesque e li
+roland	p. 182, v. 2411	que jo aveie laiset ? » De ço qui chelt, quant nul n'en	respundiet	? « Deus ! dist li reis, tant me pois esmaier Que jo ne
+roland	p. 182, v. 2414	, tant me pois esmaier Que jo ne fui a l'estur cumencer ! »	Tiret	sa barbe cum hom ki est iret ; Plurent des oilz si baron chevaler ;
+roland	p. 184, v. 2432	e honur ; De France dulce m'unt tolue la flur. » Li reis	cumandet	Gebuin e Otun, Tedbalt de Reins e le cunte Milun : « Guardez le
+roland	p. 184, v. 2444	retienent des lur. AOI. Li empereres fait ses graisles suner, Puis si	chevalchet	od sa grant ost li ber. De cels d'Espaigne unt lur les dos
+roland	p. 184, v. 2449	le vespres decliner, Sur l'erbe verte descent li reis en un pred,	Culchet	sei a tere, si priet Damnedeu Que li soleilz facet pur lui arester,
+roland	p. 184, v. 2449	erbe verte descent li reis en un pred, Culchet sei a tere, si	priet	Damnedeu Que li soleilz facet pur lui arester, La nuit targer e le jur
+roland	p. 184, v. 2450	en un pred, Culchet sei a tere, si priet Damnedeu Que li soleilz	facet	pur lui arester, La nuit targer e le jur demurer. Ais li un
+roland	p. 184, v. 2455	, car tei ne falt clartet. La flur de France as perdut, ço	set	Deus. Venger te poez de la gent criminel. » A icel mot l'
+roland	p. 186, v. 2480	grant eschec en unt si chevaler, Li gentilz reis descendut est a piet,	Culchet	sei a tere, sin ad Deu graciet. Quant il se drecet, li
+roland	p. 186, v. 2481	piet, Culchet sei a tere, sin ad Deu graciet. Quant il se	drecet	, li soleilz est culchet. Dist l'emperere : « Tens est del herberger
+roland	p. 188, v. 2497	unkes escalguaite. Li emperere s'est culcet en un pret. Sun grant espiet	met	a sun chef li ber. Icele noit ne se volt desarmer, Si ad
+roland	p. 188, v. 2511	franceis nel deivent ublier : Enseigne en unt de Munjoie crier ; Pur ço nes	poet	nule gent cuntrester. Clere est la noit e la lune luisant. Carles se
+roland	p. 188, v. 2514	luisant. Carles se gist, mais doel ad de Rollant E d'Oliver li	peiset	mult forment, Des.XII. pers e de la franceise gent En Rencesvals ad laiset
+roland	p. 188, v. 2517	.XII. pers e de la franceise gent En Rencesvals ad laiset morz sanglenz ; Ne	poet	muër n'en plurt e nes dement E priet Deu qu'as anmes seit guarent
+roland	p. 188, v. 2518	ad laiset morz sanglenz ; Ne poet muër n'en plurt e nes dement E	priet	Deu qu'as anmes seit guarent. Las est li reis, kar la peine
+roland	p. 188, v. 2522	Par tuz les prez or se dorment li Franc. N'i ad cheval ki	puisset	ester en estant : Ki herbe voelt, il la prent en gisant. Mult
+roland	p. 188, v. 2527	dort cum hume traveillet. Seint Gabriel li ad Deus enveiet : L'empereür li	cumandet	a guarder. Li angles est tute noit a sun chef. Par avisium li
+roland	p. 190, v. 2536	tempez, E fous e flambes i est apareillez : Isnelement sur tute sa gent	chet	. Ardent cez hanstes de fraisne e de pumer E cez escuz jesqu'as bucles
+roland	p. 190, v. 2545	, plus de trente millers : N'en i ad cel a Franceis ne s'	agiet	. E Franceis crient : « Carlemagne, aidez ! » Li reis en ad
+roland	p. 190, v. 2553	asalt e requert E prenent sei a braz ambesdous por loiter ; Mais ço ne	set	liquels abat ne quels chiet. Li emperere n'est mie esveillet. Aprés icele
+roland	p. 190, v. 2553	sei a braz ambesdous por loiter ; Mais ço ne set liquels abat ne quels	chiet	. Li emperere n'est mie esveillet. Aprés icele li vien un'altre avisiun
+roland	p. 190, v. 2559	dous chaeines si teneit un brohun. Devers Ardene veeit venir.XXX. urs, Cascun	parolet	altresi cume hum. Diseient li : « Sire, rendez le nus ! Il
+roland	p. 190, v. 2567	ultre ses cumpaignuns. La vit li reis si merveillus estur ; Mais ço ne	set	liquels veint ne quels nun. Li angles Deu ço ad mustret al barun.
+roland	p. 192, v. 2573	rent e sun elme e sa bronie ; Sur la verte herbe mult laidement se	culcet	; La destre main ad perdue trestute ; Del sanc qu'en ist se pasmet
+roland	p. 192, v. 2575	culcet ; La destre main ad perdue trestute ; Del sanc qu'en ist se	pasmet	e angoiset. Dedevant lui sa muiller Bramimunde Pluret e criet, mult forment se
+roland	p. 192, v. 2575	La destre main ad perdue trestute ; Del sanc qu'en ist se pasmet e	angoiset	. Dedevant lui sa muiller Bramimunde Pluret e criet, mult forment se doluset,
+roland	p. 192, v. 2577	Del sanc qu'en ist se pasmet e angoiset. Dedevant lui sa muiller Bramimunde	Pluret	e criet, mult forment se doluset, Ensembl'od li plus de.XX. mil
+roland	p. 192, v. 2577	qu'en ist se pasmet e angoiset. Dedevant lui sa muiller Bramimunde Pluret e	criet	, mult forment se doluset, Ensembl'od li plus de.XX. mil humes,
+roland	p. 192, v. 2577	e angoiset. Dedevant lui sa muiller Bramimunde Pluret e criet, mult forment se	doluset	, Ensembl'od li plus de.XX. mil humes, Si maldient Carlun e France
+roland	p. 192, v. 2595	sa cambre voltice ; Plusurs culurs i ad peinz e escrites ; E Bramimunde le	pluret	, la reïne, Trait ses chevels, si se cleimet caitive, A l'
+roland	p. 192, v. 2596	; E Bramimunde le pluret, la reïne, Trait ses chevels, si se	cleimet	caitive, A l'altre mot mult haltement s'escriet : « E ! Sarraguce
+roland	p. 192, v. 2597	ses chevels, si se cleimet caitive, A l'altre mot mult haltement s'	escriet	: « E ! Sarraguce, cum ies or desguarnie Del gentil rei ki t'
+roland	p. 192, v. 2608	s'en fuirat mie. Mult est grant doel que n'en est ki l'	ociet	. » Li emperere par sa grant poëstet.VII. anz tuz plens ad en Espaigne
+roland	p. 194, v. 2612	Espaigne estet ; Prent i chastels e alquantes citez. Li reis Marsilie s'en	purcacet	asez : Al premer an fist ses brefs seieler, En Babilonie Baligant ad mandet
+roland	p. 194, v. 2616	Baligant ad mandet, Ço est l'amiraill, le viel d'antiquitet, Tut	survesquiet	e Virgilie e Omer ; En Sarraguce alt sucurre li ber E s'il nel
+roland	p. 194, v. 2623	Charlemagne se vuldrat acorder. E cil est loinz, si ad mult demuret ;	Mandet	sa gent de.XL. regnez, Ses granz drodmunz en ad fait aprester, Eschiez
+roland	p. 196, v. 2637	E cum il vienent en Espaigne la tere, Tut li païs en reluist e	esclairet	. Jesqu'a Marsilie en parvunt les noveles. AOI. Gent paienor ne voelent
+roland	p. 196, v. 2654	getent un palie blanc ; U faldestoed i unt mis d'olifan : Desur s'	asiet	li paien Baligant ; Tuit li altre sunt remés en estant. Li sire d'
+roland	p. 198, v. 2680	li faites chalcer ; Si li portez cest bastuncel d'or mer E a mei	venget	pur reconoistre sun feu. En France irai pur Carle guerreier. S'en ma
+roland	p. 198, v. 2683	Carle guerreier. S'en ma mercit ne se culzt a mes piez E ne	guerpisset	la lei de chrestïens, Jo li toldrai la corune del chef. » Paien
+roland	p. 200, v. 2723	duluruse, caitive ? E ! lasse, que nen ai un hume ki m'	ociet	! » AOI. Dist Clarïen : « Dame, ne parlez mie itant !
+roland	p. 200, v. 2727	al paien Baligant. Marsilïun, ço dit, serat guarant, Si l'en	enveiet	sun bastun e sun guant. En Sebre avum.IIII. milie calant, Eschiez e
+roland	p. 200, v. 2733	Li amiralz est riches e puisant : En France irat Carlemagne querant ; Rendre le	quidet	u mort o recreant. » Dist Bramimunde : « Mar en irat itant !
+roland	p. 202, v. 2738	.VII. anz. Li emperere est ber e cumbatant : Meilz voel murir que ja	fuiet	de camp ; Suz ciel n'ad rei qui l prist a un enfant.
+roland	p. 202, v. 2749	Espaigne dreit : Quite li cleim, se il la voelt aveir, Puis la	defendet	encuntre li Franceis ! Vers Carlemagne li durrai bon conseill : Cunquis l'avrat d'
+roland	p. 204, v. 2786	i pout mes ester. Li emperere l'ad enchacet asez. Li reis vos	mandet	que vos le sucurez. Quite vos cleimet d'Espaigne le regnet. » E
+roland	p. 204, v. 2787	ad enchacet asez. Li reis vos mandet que vos le sucurez. Quite vos	cleimet	d'Espaigne le regnet. » E Baligant cumencet a penser ; Si grant doel
+roland	p. 204, v. 2788	vos le sucurez. Quite vos cleimet d'Espaigne le regnet. » E Baligant	cumencet	a penser ; Si grant doel ad por poi qu'il n'est desvet.
+roland	p. 204, v. 2795	lur Franceis i ad mort.XX. millers. Li reis Marsilie le poign destre i	perdiet	E l'emperere asez l'ad enchalcet. En ceste tere n'est remés chevaler
+roland	p. 204, v. 2804	ad fiers, En sun curage en est joüs e liet. Del faldestod se	redrecet	en piez, Puis escriet : « Baruns, ne vos targez ! Eissez des
+roland	p. 204, v. 2805	curage en est joüs e liet. Del faldestod se redrecet en piez, Puis	escriet	: « Baruns, ne vos targez ! Eissez des nefs, muntez, si
+roland	p. 206, v. 2814	, que fereient il plus ? Li amirals, ki trestut les esmut, Sin	apelet	Gemalfin, un sun drut : « Jo te cumant de tutes mes oz »
+roland	p. 206, v. 2817	oz » Puis est munted en un sun destrer brun ; Ensembl'od lui em	meinet	.IIII. dux. Tant chevalchat qu'en Saraguce fut. A un perron de marbre
+roland	p. 206, v. 2821	descenduz E quatre cuntes l'estreu li unt tenut. Par les degrez el paleis	muntet	sus. E Bramidonie vient curant cuntre lui, Si li ad dit : «
+roland	p. 206, v. 2825	mare fui ! A itel hunte, sire, mon seignor ai perdut ! »	Chet	li as piez, li amiralz la reçut ; Sus en la chambre ad doel
+roland	p. 206, v. 2841	en est turnet plurant. AOI. Par les degrez jus del paleis descent,	Muntet	el ceval, vient a sa gent puignant. Tant chevalchat qu'il est premers
+roland	p. 208, v. 2848	est li emperere Carles. Sein Gabriel, ki de par Deu le guarde,	Levet	sa main, sur lui fait sun signacle. Li reis descent, si ad
+roland	p. 208, v. 2856	bataille. AOI. En Rencesvals en est Carles venuz. Des morz qu'il	troevet	cumencet a plurer. Dist as Franceis : « Segnus, le pas tenez,
+roland	p. 208, v. 2856	. AOI. En Rencesvals en est Carles venuz. Des morz qu'il troevet	cumencet	a plurer. Dist as Franceis : « Segnus, le pas tenez, Kar
+roland	p. 208, v. 2858	. Dist as Franceis : « Segnus, le pas tenez, Kar mei meïsme	estoet	avant aler Pur mun nevold que vuldreie truver. A Eis esteie, a une
+roland	p. 208, v. 2868	sun chef turnet ; Cunquerrantment si finereit li bers. » Plus qu'en ne	poet	un bastuncel jeter, Devant les altres est en un pui muntet. Quant l'
+roland	p. 208, v. 2873	, Ki sunt vermeilles del sanc de noz barons ! Pitet en ad, ne	poet	muer n'en plurt. Desuz dous arbres parvenuz est Les colps Rollant conut en
+roland	p. 208, v. 2880	pied, aled i est pleins curs. Entre ses mains ansdous Sur lui se	pasmet	, tant par est anguissus. Li empereres de pasmeisuns revint. Naimes li dux
+roland	p. 210, v. 2885	Anjou e sun frere Henri Prenent le rei, sil drecent suz un pin.	Guardet	a la tere, veit sun nevold gesir. Tant dulcement a regreter le prist
+roland	p. 210, v. 2891	juster e defenir. La meie honor est turnet en declin. » Carles se	pasmet	, ne s'en pout astenir. AOI. Carles li reis se vint de
+roland	p. 210, v. 2894	reis se vint de pasmeisuns ; Par mains le tienent.IIII. de ses barons.	Guardet	a tere, veit gesir sun nevuld. Cors ad gaillard, perdue ad sa
+roland	p. 210, v. 2898	. Carles le pleint par feid e par amur : « Ami Rollant, Deus	metet	t'anme en flors, En pareïs, entre les glorius ! Cum en Espaigne
+roland	p. 210, v. 2903	dulur. Cum decarrat ma force e ma baldur ! N'en avrai ja ki	sustienget	m'onur ; Suz ciel ne quid aveir ami un sul ; Se jo ai
+roland	p. 212, v. 2927	guierat mes oz a tel poeste, Quant cil est morz ki tuz jurz nos	cadelet	? E ! France, cum remeines deserte ! Si grant doel ai que jo
+roland	p. 212, v. 2930	! Si grant doel ai que jo ne vuldreie estre ! » Sa barbe blanche	cumencet	a detraire, Ad ambes mains les chevels de sa teste. Cent mille Francs
+roland	p. 212, v. 2938	ne voldreie vivre, De ma maisnee, ki pur mei est ocise ! Ço	duinset	Deus, le filz seinte Marie, Einz que jo vienge as maistres porz de
+roland	p. 212, v. 2943	Entre les lur aluee e mise E ma car fust delez els enfuïe ! »	Ploret	des oilz, sa blanche barbe tiret, E dist dux Naimes : « Or
+roland	p. 212, v. 2943	ma car fust delez els enfuïe ! » Ploret des oilz, sa blanche barbe	tiret	, E dist dux Naimes : « Or ad Carles grant ire. » AOI
+roland	p. 214, v. 2970	seignurs unt mis ; Ben sunt lavez de piment e de vin. Li reis	cumandet	Tedbalt e Gebuin, Milun le cunte e Otes le marchis : « En.III.
+roland	p. 216, v. 2979	, nen est fins que t'en alges ! Veiz Baligant, ki aprés tei	chevalchet	. Granz sunt les oz qu'il ameinet d'Arabe. Encoi verrum se tu
+roland	p. 216, v. 2980	! Veiz Baligant, ki aprés tei chevalchet. Granz sunt les oz qu'il	ameinet	d'Arabe. Encoi verrum se tu as vasselage. » AOI. Carles li
+roland	p. 216, v. 2983	. » AOI. Carles li reis en ad prise sa barbe, Si li	remembret	del doel e del damage, Mult fierement tute sa gent reguardet, Puis si
+roland	p. 216, v. 2984	, Si li remembret del doel e del damage, Mult fierement tute sa gent	reguardet	, Puis si s'escriet a sa voiz grand e halte : « Barons franceis
+roland	p. 216, v. 2985	doel e del damage, Mult fierement tute sa gent reguardet, Puis si s'	escriet	a sa voiz grand e halte : « Barons franceis, as chevals e as
+roland	p. 216, v. 2987	, as chevals e as armes ! » AOI. Li empereres tuz premereins s'	adubet	. Isnelement ad vestue sa brunie, Lacet sun helme, si ad ceinte Joiuse
+roland	p. 216, v. 2989	AOI. Li empereres tuz premereins s'adubet. Isnelement ad vestue sa brunie,	Lacet	sun helme, si ad ceinte Joiuse, Ki pur soleill sa clartet nen escunset
+roland	p. 216, v. 2990	Lacet sun helme, si ad ceinte Joiuse, Ki pur soleill sa clartet nen	escunset	, Pent a sun col un escut de Biterne, Tient sun espiet, sin
+roland	p. 216, v. 2993	, sin fait brandir la hanste, En Tencendur, sun bon cheval, puis	muntet	- Il le cunquist es guez desuz Marsune, Sin getat mort Malpalin de Nerbone
+roland	p. 216, v. 2996	le cunquist es guez desuz Marsune, Sin getat mort Malpalin de Nerbone, -	Laschet	la resne, mult suvent l'esperonet, Fait sun eslais veant cent mil humes
+roland	p. 216, v. 2996	Sin getat mort Malpalin de Nerbone, - Laschet la resne, mult suvent l'	esperonet	, Fait sun eslais veant cent mil humes, AOI. Recleimet Deu e l'
+roland	p. 216, v. 2998	mult suvent l'esperonet, Fait sun eslais veant cent mil humes, AOI.	Recleimet	Deu e l'apostle de Rome. Par tut le champ cil de France descendent
+roland	p. 216, v. 3001	, Plus de cent milie s'en adubent ensemble. Guarnemenz unt ki ben lor	atalentet	, Cevals curanz e lur armes mult gentes, Puis sunt muntez e unt grant
+roland	p. 216, v. 3010	En tels vassals deit hom aveir fïance ! Asez est fols ki entr'els se	dementet	. Si Arrabiz de venir ne se repentent, La mort Rollant lur quid cherement
+roland	p. 218, v. 3014	Respunt dux Neimes : « E Deus le nos cunsente ! » AOI. Carles	apelet	Rabel e Guineman. Ço dist li reis : « Seignurs, jo vos cumant
+roland	p. 218, v. 3043	Sis guierat Hermans, li dux de Trace : Einz i murat que cuardise i	facet	. AOI. Naimes li dux e li quens Jozerans La quinte eschele unt faite
+roland	p. 220, v. 3049	Ja pur murir cil n'erent recreanz. Suz ciel n'ad gent ki plus	poisset	en camp. Richard li velz les guierat el camp ; Cil i ferrat de
+roland	p. 220, v. 3057	hanstes, fermez lur gunfanun. Le seignur d'els est apelet Oedun : Icil	cumandet	le cunte Nevelun, Tedbald de Reins e le marchis Otun : « Guiez ma
+roland	p. 222, v. 3093	la bataille demandent ; Munjoie escrient ; od els est Carlemagne. Gefreid d'Anjou	portet	l'orie flambe : Seint Piere fut, si aveit num Romaine ; Mais de
+roland	p. 222, v. 3098	de sun cheval descent, Sur l'erbe verte s'e est culchet adenz,	Turnet	sun vis vers le soleill levant, Recleimet Deu mult escordusement : « Veire Paterne
+roland	p. 222, v. 3099	verte s'e est culchet adenz, Turnet sun vis vers le soleill levant,	Recleimet	Deu mult escordusement : « Veire Paterne, hoi cest jor me defend, Ki
+roland	p. 224, v. 3110	cunsent Que mun nevold poisse venger Rollant ! » Cum ad oret, si se	drecet	en estant, Seignet sun chef de la vertut poisant. Muntet li reis en
+roland	p. 224, v. 3111	poisse venger Rollant ! » Cum ad oret, si se drecet en estant,	Seignet	sun chef de la vertut poisant. Muntet li reis en sun cheval curant ;
+roland	p. 224, v. 3112	, si se drecet en estant, Seignet sun chef de la vertut poisant.	Muntet	li reis en sun cheval curant ; L'estreu li tindrent Neimes e Jocerans ;
+roland	p. 224, v. 3117	gaillart e ben seant, Cler le visage e de bon cuntenant. Puis si	chevalchet	mult aficheement. Sunent cil greisle e derere e devant ; Sur tuz les altres
+roland	p. 224, v. 3121	bundist li olifant. Plurent Franceis pur pitet de Rollant. Mult gentement li emperere	chevalchet	. Desur sa bronie fors ad mise sa barbe. Pur sue amor altretel funt
+roland	p. 224, v. 3136	: « Or oi grant vasselage. Sunez voz graisles, que mi paien le	sacet	! » Par tute l'ost funt lur taburs suner E cez buisines e cez
+roland	p. 224, v. 3142	amiralz ne se voelt demurer, Vest une bronie dunt li pan sunt sasfret,	Lacet	sun elme, ki ad or est gemmet, Puis ceint s'espee al senestre
+roland	p. 226, v. 3152	guige en est d'un bon palie roet ; Tient sun espiet, si l'	apelet	Maltet : La hanste fut grosse cume uns tinels ; De sul le fer fust
+roland	p. 226, v. 3165	est suvent esprovet ; Deus ! quel baron, s'oüst chrestïentet ! Le cheval	brochet	, li sancs en ist tuz clers, Fait sun eslais, si tressalt un
+roland	p. 226, v. 3167	tuz clers, Fait sun eslais, si tressalt un fosset, Cinquante pez i	poet	hom mesurer. Paien escrient : « Cist deit marches tenser ! N'i ad
+roland	p. 226, v. 3170	deit marches tenser ! N'i ad Franceis, si a lui vient juster,	Voeillet	o nun, n'i perdet sun edet. Carles est fols, que ne
+roland	p. 226, v. 3170	ad Franceis, si a lui vient juster, Voeillet o nun, n'i	perdet	sun edet. Carles est fols, que ne s'en est alet. »
+roland	p. 226, v. 3172	fols, que ne s'en est alet. » AOI. Li amiralz ben	resemblet	barun. Blanche ad la barbe ensement cume flur E de sa lei mult par
+roland	p. 228, v. 3183	honurs. Il nen at mie de Rollant sun nevold : N'avrat vertut ques	tienget	cuntre nus. » AOI. « Bels filz Malpramis, ço li dist Baligant
+roland	p. 228, v. 3190	milie cumbatanz. Trestuz les altres ne pris jo mie un guant. Li empereres	repairet	veirement, Sil m'at nunciet mes més, li Sulïans,.X. escheles mult
+roland	p. 228, v. 3193	més, li Sulïans,.X. escheles mult granz. Cil est mult proz ki	sunet	l'olifant : D'un graisle cler racatet ses cumpaignz E si cevalcent el premer
+roland	p. 228, v. 3194	granz. Cil est mult proz ki sunet l'olifant : D'un graisle cler	racatet	ses cumpaignz E si cevalcent el premer chef devant, Ensembl'od els.XV. milie
+roland	p. 228, v. 3197	chef devant, Ensembl'od els.XV. milie de Francs, De bachelers que Carles	cleimet	enfanz. Aprés icels en i ad ben altretanz. Cil i ferrunt mult orgoillusement
+roland	p. 228, v. 3210	en Val Marchis. » Cil respunt : « Sire, vostre mercit ! »	Passet	avant, le dun en requeillit, Ço est de la tere ki fut al
+roland	p. 230, v. 3214	la vit, Ne il n'en fut ne vestut ne saisit. Li amiraill	chevalchet	par cez oz. Sis filz le siut, ki mult ad grant le cors
+roland	p. 230, v. 3232	Ço est une gent ki unches ben ne volt. AOI. Li amiralz en	juret	quanqu'il poet De Mahumet les vertuz e le cors : « Karles de France
+roland	p. 230, v. 3232	gent ki unches ben ne volt. AOI. Li amiralz en juret quanqu'il	poet	De Mahumet les vertuz e le cors : « Karles de France chevalchet cume fols
+roland	p. 230, v. 3234	quanqu'il poet De Mahumet les vertuz e le cors : « Karles de France	chevalchet	cume fols. Bataille i ert, se il ne s'en destolt ; Ja
+roland	p. 232, v. 3272	un sermun : « Ki par noz deus voel aveir guarison, Sis prit e	servet	par grant afflictïun ! » Paien i bassent lur chefs e lur mentun, Lor
+roland	p. 234, v. 3280	num ! » AOI. Li amiralz est mult de grant saveir : A sei	apelet	sis filz e les dous reis : « Seignurs barons, devant chevalchereiz. Mes
+roland	p. 234, v. 3293	at ne pui ne val ne tertre, Selve ne bois, asconse n'i	poet	estre ; Ben s'entreveient en mi la pleine tere. Dist Baligant : «
+roland	p. 234, v. 3297	« La meie gent averse, Car chevalchez pur la bataille quere ! L'enseigne	portet	Amborres d'Oluferne. Paien escrient, Preciuse l'apelent. Dient Franceis : «
+roland	p. 234, v. 3302	. Li emperere i fait suner ses greisles E l'olifan, ki trestuz les	esclairet	. Dient paien : « La gent Carlun est bele. Bataille avrum e aduree
+roland	p. 236, v. 3311	sunt mult cleres ; De l'olifan haltes sunt les menees. Li amiralz en	apelet	sun frere, Ço est Canabeus, li reis de Floredee : Cil tint la
+roland	p. 236, v. 3316	li ad mustrees : « Veez l'orgoil de France la loee ! Mult fierement	chevalchet	li emperere. Il est darere od cele gent barbee : Desur lur bronies lur
+roland	p. 236, v. 3323	aduree : Unkes nuls hom ne vit tel ajustee. » Plus qu'om ne	lancet	une verge pelee, Baligant ad ses cumpaignes trespassees. Une raisun lur a dit'
+roland	p. 236, v. 3334	més que tant cume l'emperere en ad, Li reis de France s'en	escriet	mult halt ; « Barons franceis, vos estes bons vassals, Tantes batailles avez
+roland	p. 236, v. 3341	or ne voelt a mei venir, s'en alt ! » Des esperons puis	brochet	le cheval, E Tencendor li ad fait.IIII. salz. Dient Franceis : «
+roland	p. 238, v. 3353	lur espiez trenchanz. AOI. Li quens Rabels est chevaler hardiz. Le cheval	brochet	des esperuns d'or fin, Si vait ferir Torleu, le rei persis.
+roland	p. 238, v. 3360	! Carles ad dreit, ne li devom faillir. » AOI. E Guineman	justet	a un rei leutice. Tute li freint la targe, ki est flurie ;
+roland	p. 238, v. 3364	el cors mise, Que mort l'abat, ki qu'en plurt u kin	riet	. A icest colp cil de France s'escrient : « Ferez, baron,
+roland	p. 238, v. 3369	la gent Deus nus ad mis al plus verai juïse. » AOI. Malpramis	siet	sur un cheval tut blanc ; Cunduit sun cors en la presse des Francs,
+roland	p. 240, v. 3373	ferant, L'un mort sur l'altre suvent vait trescevant. Tut premereins s'	escriet	Baligant : « Li mien baron, nurrit vos ai lung tens. Veez mun
+roland	p. 240, v. 3391	junchee ! L'erbe del camp, ki est verte e delgee ! Li amiralz	recleimet	sa maisnee : « Ferez, baron, sur la gent chrestïene ! » La
+roland	p. 240, v. 3396	la nuit n'en ert fins otriee. AOI. Li amiralz la sue gent	apelet	: « Ferez, paien : por el venud n'i estes ! Jo vos
+roland	p. 240, v. 3405	pesmes ; Bataille veit cil ki entr'els volt estre. AOI. Li emperere	recleimet	ses Franceis : « Seignors barons, jo vos aim, si vos crei.
+roland	p. 242, v. 3421	La bataille est de merveillus destreit. AOI. E Malpramis par mi le camp	chevalchet	; De cels de France i fait mult grant damage. Naimes li dux fierement
+roland	p. 242, v. 3423	De cels de France i fait mult grant damage. Naimes li dux fierement le	reguardet	, Vait le ferir cum hume vertudable. De sun escut li freint la pene
+roland	p. 242, v. 3426	sun escut li freint la pene halte, De sun osberc les dous pans li	desaffret	, El cors li met tute l'enseigne jalne, Que mort l'abat entre
+roland	p. 242, v. 3427	pene halte, De sun osberc les dous pans li desaffret, El cors li	met	tute l'enseigne jalne, Que mort l'abat entre.VII. C. des altres.
+roland	p. 242, v. 3430	des altres. Reis Canabeus, le frere a l'amiraill, Des esporuns ben	brochet	sun cheval ; Trait ad l'espee, le punt est de cristal. Si
+roland	p. 242, v. 3434	une meitiet l'en fruissed d'une part ; Al brant d'acer l'en	trenchet	.V. des laz. Li capelers un dener ne li valt : Trenchet la coife
+roland	p. 242, v. 3436	l'en trenchet.V. des laz. Li capelers un dener ne li valt :	Trenchet	la coife entresque a la char, Jus a la tere une piece en abat
+roland	p. 244, v. 3445	Naimes li dux tant par est anguissables, E li paiens de ferir mult le	hastet	. Carles li dist : « Culvert, mar le baillastes ! » Vait le
+roland	p. 244, v. 3448	ferir par sun grant vasselage : L'escut li freint, cuntre le coer li	quasset	, De sun osberc li desrumpt la ventaille, Que mort l'abat ; la
+roland	p. 244, v. 3463	i ad celoi n'i fierge o n'i capleit. AOI. Li amiralz	chevalchet	par le camp, Si vait ferir le cunte Guineman. Cuntre le coer li
+roland	p. 244, v. 3465	par le camp, Si vait ferir le cunte Guineman. Cuntre le coer li	fruisset	l'escut blanc, De sun osberc li derumpit les pans, Les dous costez
+roland	p. 244, v. 3467	escut blanc, De sun osberc li derumpit les pans, Les dous costez li	deseivret	des flancs, Que mort l'abat de sun cheval curant. Puis ad ocis
+roland	p. 246, v. 3490	dulor li poüst suvenir ! Ceste bataille est mult fort a suffrir. Li amiralz	recleimet	Apolin E Tervagan e Mahumet altresi : « Mi damnedeu, jo vos ai mult
+roland	p. 246, v. 3496	» AOI. As li devant un soen drut, Gemalfin ; Males nuveles li	aportet	e dit : « Baligant, sire, mal estes oi baillit. Perdut avez
+roland	p. 246, v. 3502	est l'uns, ço m'est vis : Granz ad le cors, ben	resenblet	marchis, Blanc'ad la barbe cume flur en avrill. » Li amiralz en
+roland	p. 246, v. 3505	flur en avrill. » Li amiralz en ad le helme enclin E aprés sin	enbrunket	sun vis. Si grant doel ad sempres quiad murir, Sin apelat Jangleu l'
+roland	p. 248, v. 3511	e vostre saveir est grant ; Vostre conseill ai tuz tenz. Que vos en	semblet	d'Arrabiz e de Francs ? Avrum nos la victorie del champ ? » E
+roland	p. 248, v. 3523	en espine : Cument qu'il seit, ne s'i voelt celer mie.	Met	a sa buche une clere buisine, Sunet la cler, que si paien l'
+roland	p. 248, v. 3524	ne s'i voelt celer mie. Met a sa buche une clere buisine,	Sunet	la cler, que si paien l'oïrent ; Par tut le camp ses cumpaignes
+roland	p. 248, v. 3536	d'Argone, Gefrei d'Anjou e Jozeran le cunte ; Mult fierement Carlun en	araisunet	: « Veez paien cum ocient voz humes ! Ja Deu ne placet qu'el
+roland	p. 248, v. 3538	Carlun en araisunet : « Veez paien cum ocient voz humes ! Ja Deu ne	placet	qu'el chef portez corone, S'or n'i ferez pur venger vostre hunte
+roland	p. 248, v. 3540	ferez pur venger vostre hunte ! » N'i ad icel ki un sul mot	respundet	; Brochent ad eit, lor cevals laissent cure, Vunt les ferir la o
+roland	p. 250, v. 3547	teneit. Mult par est proz danz Ogers li Daneis ; Puint le ceval,	laisset	curre ad espleit, Si vait ferir celui ki le dragun teneit, Qu'Ambure
+roland	p. 250, v. 3556	e Carlemagnes dreit. Paien d'Arabe s'en turnent plus.C., Li emperere	recleimet	ses parenz : « Dites, baron, por Deu, si m'aidereiz.
+roland	p. 250, v. 3559	» Respundent Francs : « Mar le demandereiz. Trestut seit fel ki n'i	fierget	a espleit ! » AOI. Passet li jurz, si turnet a la vespree
+roland	p. 250, v. 3560	demandereiz. Trestut seit fel ki n'i fierget a espleit ! » AOI.	Passet	li jurz, si turnet a la vespree. Franc e païen i fierent des
+roland	p. 250, v. 3560	ki n'i fierget a espleit ! » AOI. Passet li jurz, si	turnet	a la vespree. Franc e païen i fierent des espees. Cil sunt vassal
+roland	p. 250, v. 3578	les espees. Ceste bataille n'en ert mais destornee : Seinz hume mort ne	poet	estre achevee. AOI. Mult est vassal Carles de France dulce ; Li amiralz
+roland	p. 252, v. 3580	est vassal Carles de France dulce ; Li amiralz, il nel crent ne ne	dutet	. Cez lor espees tutes nues i mustrent, Sur cez escuz mult granz colps
+roland	p. 252, v. 3586	fierent il nud a nud sur lur bronies ; Des helmes clers li fuus en	escarbunet	. Ceste bataille ne poet remaneir unkes, Josque li uns sun tort i reconuisset
+roland	p. 252, v. 3587	sur lur bronies ; Des helmes clers li fuus en escarbunet. Ceste bataille ne	poet	remaneir unkes, Josque li uns sun tort i reconuisset. AOI. Dist l'
+roland	p. 252, v. 3588	escarbunet. Ceste bataille ne poet remaneir unkes, Josque li uns sun tort i	reconuisset	. AOI. Dist l'amiraill : « Carles, kar te purpenses, Si
+roland	p. 252, v. 3597	Pais ne amor ne dei a paien rendre. Receif la lei que Deus nos	apresentet	, Chrestïentet, e puis te amerai sempres ; Puis serf e crei le rei
+roland	p. 252, v. 3605	l'elme d'acer brun, Desur la teste li ad frait e fendut ;	Met	li l'espee sur les chevels menuz, Prent de la carn grant pleine palme
+roland	p. 252, v. 3608	grant pleine palme e plus : Iloec endreit remeint li os tut nut. Carles	cancelet	, por poi qu'il n'est caüt ; Mais Deus ne volt qu'il
+roland	p. 252, v. 3611	il seit mort ne vencut. Seint Gabriel est repairet a lui, Si li	demandet	: « Reis magnes, que fais tu ? » Quant Carles oït la seinte
+roland	p. 254, v. 3614	la seinte voiz de l'angle, Nen ad poür ne de murir dutance ;	Repairet	loi vigur e remembrance. Fiert l'amiraill de l'espee de France, L'
+roland	p. 254, v. 3617	de l'espee de France, L'elme li freint o li gemme reflambent,	Trenchet	la teste pur la cervele espandre E tut le vis tresqu'en la barbe blanche
+roland	p. 254, v. 3620	tresqu'en la barbe blanche, Que mort l'abat senz nule recuvrance. Munjoie	escriet	pur la reconuisance. A icest mot venuz i est dux Neimes : Prent Tencendur
+roland	p. 254, v. 3630	vos vi plurer des oilz. » Respondent Franc : « Sire, ço nus	estoet	. » Cascuns i fiert tanz granz colps cum il poet. Poi s'en
+roland	p. 254, v. 3631	Sire, ço nus estoet. » Cascuns i fiert tanz granz colps cum il	poet	. Poi s'en estoerstrent d'icels ki sunt iloec. Granz est li calz
+roland	p. 254, v. 3633	en estoerstrent d'icels ki sunt iloec. Granz est li calz, si se	levet	la puldre. Paien s'en fuient e Franceis les anguissent ; Li enchalz duret
+roland	p. 254, v. 3635	levet la puldre. Paien s'en fuient e Franceis les anguissent ; Li enchalz	duret	d'ici qu'en Sarraguce. Em sum sa tur muntee est Bramidonie, Ensembl'
+roland	p. 256, v. 3644	a si grant hunte ! » Quant l'ot Marsilie, vers sa pareit se	turnet	, Pluret des oilz, tute sa chere enbrunchet ; Morz est de doel,
+roland	p. 256, v. 3645	grant hunte ! » Quant l'ot Marsilie, vers sa pareit se turnet,	Pluret	des oilz, tute sa chere enbrunchet ; Morz est de doel, si cum
+roland	p. 256, v. 3645	Marsilie, vers sa pareit se turnet, Pluret des oilz, tute sa chere	enbrunchet	; Morz est de doel, si cum pecchet l'encumbret. L'anme de
+roland	p. 256, v. 3646	, tute sa chere enbrunchet ; Morz est de doel, si cum pecchet l'	encumbret	. L'anme de lui as vifs diables dunet. AOI. Paien sunt morz
+roland	p. 256, v. 3651	E Carles ad sa bataille vencue. De Sarraguce ad la porte abatue : Or	set	il ben que elle n'est mais defendue. Prent la citet, sa gent
+roland	p. 256, v. 3657	li ad rendues : Les dis sunt grandes, les cinquante menues. Mult ben	espleitet	qui Damnesdeus aiuet. Passet li jurz, la noit est aserie ; Clers est
+roland	p. 256, v. 3657	: Les dis sunt grandes, les cinquante menues. Mult ben espleitet qui Damnesdeus	aiuet	. Passet li jurz, la noit est aserie ; Clers est la lune e
+roland	p. 256, v. 3658	dis sunt grandes, les cinquante menues. Mult ben espleitet qui Damnesdeus aiuet.	Passet	li jurz, la noit est aserie ; Clers est la lune e les esteiles
+roland	p. 256, v. 3674	reïne. En France dulce iert menee caitive : Ço voelt li reis par amur	cunvertisset	. Passet la noit, si apert le cler jor. De Sarraguce Carles guarnist
+roland	p. 258, v. 3675	En France dulce iert menee caitive : Ço voelt li reis par amur cunvertisset.	Passet	la noit, si apert le cler jor. De Sarraguce Carles guarnist les turs
+roland	p. 258, v. 3679	; Mil chevalers i laissat puigneürs ; Guardent la vile a oes l'empereor.	Muntet	li reis e si hume trestuz E Bramidonie, qu'il meinet en sa prisun
+roland	p. 258, v. 3680	l'empereor. Muntet li reis e si hume trestuz E Bramidonie, qu'il	meinet	en sa prisun ; Mais n'ad talent que li facet se bien nun.
+roland	p. 258, v. 3681	Bramidonie, qu'il meinet en sa prisun ; Mais n'ad talent que li	facet	se bien nun. Repairez sunt a joie e a baldur. Passent Nerbone par
+roland	p. 258, v. 3686	; Vint a Burdeles, la citet de Desur l'alter seint Sevrin le baron	Met	l'oliphan plein d'or e de manguns : Li pelerin le veient ki la
+roland	p. 258, v. 3688	plein d'or e de manguns : Li pelerin le veient ki la vunt.	Passet	Girunde a mult granz nefs qu'i sunt ; Entresqu'a Blaive ad cunduit sun
+roland	p. 258, v. 3695	gisent li baron. Francs les cumandent a Deu e a ses nuns. Carles	cevalchet	e les vals e les munz ; Entresqu'a Ais ne volt prendre sujurn.
+roland	p. 258, v. 3699	descent al perrun. Cume il est en sun paleis halçur, Par ses messages	mandet	ses jugeors, Baivers e Saisnes, Loherencs e Frisuns ; Alemans mandet, si
+roland	p. 258, v. 3701	ses messages mandet ses jugeors, Baivers e Saisnes, Loherencs e Frisuns ; Alemans	mandet	, si mandet Borguignuns E Peitevins e Normans e Bretuns, De cels de France
+roland	p. 258, v. 3701	ses jugeors, Baivers e Saisnes, Loherencs e Frisuns ; Alemans mandet, si	mandet	Borguignuns E Peitevins e Normans e Bretuns, De cels de France des plus saives
+roland	p. 258, v. 3704	e Bretuns, De cels de France des plus saives qui sunt. Dés or	cumencet	le plait de Guenelun. Li empereres est repairet d'Espaigne E vient a Ais
+roland	p. 260, v. 3707	est repairet d'Espaigne E vient a Ais, al meillor sied de France ;	Muntet	el palais, est venut en la sale. As li Alde venue, une
+roland	p. 260, v. 3712	cume sa per a prendre ? » Carles en ad e dulor e pesance,	Pluret	des oilz, tiret sa barbe blance : « Soer, cher'amie, de
+roland	p. 260, v. 3712	prendre ? » Carles en ad e dulor e pesance, Pluret des oilz,	tiret	sa barbe blance : « Soer, cher'amie, de hume mort me demandes
+roland	p. 260, v. 3720	ne ses angles Aprés Rollant que jo vive remaigne ! » Pert la culor,	chet	as piez Carlemagne, Sempres est morte. Deus ait mercit de l'anme !
+roland	p. 260, v. 3724	plurent e si la pleignent. Alde la bel'est a sa fin alee.	Quidet	li reis que el se seit pasmee ; Pitet en ad, sin pluret l'
+roland	p. 260, v. 3725	. Quidet li reis que el se seit pasmee ; Pitet en ad, sin	pluret	l'emperere ; Prent la as mains, si l'en ad relevee. Desur
+roland	p. 262, v. 3743	dulur iloec atent sun plait. Il est escrit en l'ancïene geste Que Carles	mandet	humes de plusurs teres. Asemblez sunt ad Ais, a la capele. Halz
+roland	p. 262, v. 3747	est grande la feste, Dient alquanz, del baron seint Silvestre. Dés ore	cumencet	le plait e les noveles De Guenelun, ki traïsun ad faite. Li emperere
+roland	p. 264, v. 3780	: « A conseill en irums. » Quant Guenes veit que ses granz plaiz	cumencet	, De ses parenz ensemble od li out trente. Un en i ad a
+roland	p. 264, v. 3784	qui li altre entendent : Ço est Pinabel, del castel de Sorence ; Ben	set	parler e dreite raisun rendre ; Vassals est bons por ses armes defendre. AOI
+roland	p. 264, v. 3789	Dist Pinabel : « Vos serez guarit sempres. N'i ad Francés ki vos	juget	a pendre, U l'emperere les noz dous cors en asemble, Al brant
+roland	p. 264, v. 3801	e si preium le rei Que Guenelun cleimt quite ceste feiz, Puis si li	servet	par amur e par feid. Morz est Rollant, ja mais nel revereiz ;
+roland	p. 266, v. 3810	Sire, nus vos prium Que clamez quite le cunte Guenelun, Puis si vos	servet	par feid e par amor. Vivre le laisez, car mult est gentilz hoem
+roland	p. 266, v. 3817	enbrunchit e la chere e le vis, Al doel qu'il ad si se	cleimet	caitifs. Ais li devant uns chevalers, Tierris, Frere Gefrei, a un
+roland	p. 268, v. 3845	ad fait. Jo si li fals, od lui m'en cumbatrai. »	Met	li el poign de cerf le destre guant. Dist li empereres : « Bons
+roland	p. 268, v. 3872	. Idunc plurerent.C. milie chevalers Qui pur Rollant de Tierri unt pitiet. Deus	set	asez cument la fins en ert. Dedesuz Ais est la pree mult large.
+roland	p. 270, v. 3898	en tendrai cunseill. Tut seie fel, se jo mie l'otrei ! Deus	facet	hoi entre nus dous le dreit ! » AOI. Ço dist Tierri : «
+roland	p. 270, v. 3906	ert jur que il n'en seit parlet. » Dist Pinabel : « Ne	placet	Damnedeu ! Sustenir voeill trestut mun parentet ; N'en recrerrai pur nul hume mortel
+roland	p. 272, v. 3912	capler Desur cez helmes, ki sunt a or gemez ; Cuntre le ciel en	volet	li fous tuz clers. Il ne poet estre qu'il seient desevrez : Seinz
+roland	p. 272, v. 3913	or gemez ; Cuntre le ciel en volet li fous tuz clers. Il ne	poet	estre qu'il seient desevrez : Seinz hume mort ne poet estre afinet. AOI
+roland	p. 272, v. 3914	clers. Il ne poet estre qu'il seient desevrez : Seinz hume mort ne	poet	estre afinet. AOI. Mult par est proz Pinabel de Sorence, Si fiert
+roland	p. 272, v. 3918	, que l'erbe en fait esprendre. Del brant d'acer la mure li	presentet	. Desur le frunt li ad faite descendre. Em mi le vis li ad
+roland	p. 272, v. 3923	desclot josque par sum le ventre. Deus le guarit, que mort ne l'	acraventet	. AOI. Ço veit Tierris que el vis est ferut : Li sancs tuz
+roland	p. 272, v. 3925	. Ço veit Tierris que el vis est ferut : Li sancs tuz clers en	chiet	el pred herbus. Fiert Pinabel sur l'elme d'acer brun, Jusqu'al
+roland	p. 272, v. 3941	sa brace, Tert lui le vis od ses granz pels de martre, Celes	met	jus, puis li afublent altres ; Mult suavet le chevaler desarment. Munter l'
+roland	p. 274, v. 3944	suavet le chevaler desarment. Munter l'unt fait en une mule d'Arabe ;	Repairet	s'en a joie e a barnage ; Vienent ad Ais, descendent en la
+roland	p. 274, v. 3946	e a barnage ; Vienent ad Ais, descendent en la place. Dés or	cumencet	l'ocisïun des altres. Carles apelet ses cuntes e ses dux : « Que
+roland	p. 274, v. 3947	, descendent en la place. Dés or cumencet l'ocisïun des altres. Carles	apelet	ses cuntes e ses dux : « Que me loez de cels qu'ai retenuz
+roland	p. 274, v. 3952	. » Respundent Franc : « Ja mar en vivrat uns ! » Li reis	cumandet	un soen veier, Basbrun : « Va, sis pent tuz a l'arbre
+roland	p. 274, v. 3955	de mal fust ! Par ceste barbe dunt li peil sunt canuz, Se uns	escapet	, morz ies e cunfunduz. » Cil li respunt : « Qu'en fereie
+roland	p. 274, v. 3963	Bretun e Norman. Sor tuit li altre l'unt otriet li Franc Que Guenes	moerget	par merveillus ahan. Quatre destrers funt amener avant, Puis si li lient e
+roland	p. 276, v. 3980	caitive franche. Tant ad oït e sermuns e essamples Creire voelt Deu, chrestïentet	demandet	. Baptizez la, pur quei Deus en ait l'anme. » Cil li
+roland	p. 276, v. 3991	justice E esclargiez est la sue grant ire, En Bramidonie ad chrestïentet mise,	Passet	li jurz, la nuit est aserie. Culcez s'est li reis en sa
+roland	p. 276, v. 4001	: « Deus, dist li reis, si penuse est ma vie ! »	Pluret	des oilz, sa barbe blanche tiret. Ci falt la geste que Turoldus declinet
+roland	p. 276, v. 4001	, si penuse est ma vie ! » Pluret des oilz, sa barbe blanche	tiret	. Ci falt la geste que Turoldus declinet.
+roland,    p. 276, v. 4002	Pluret des oilz, sa barbe blanche tiret. Ci falt la geste que Turoldus	declinet	.

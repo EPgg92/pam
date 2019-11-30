@@ -15,7 +15,7 @@ def get_pam_argparse():
     parser = argparse.ArgumentParser(
         description='Produce prosodical-metrical analyses of text.')
     selector = parser.add_argument_group(title='Selector',
-                                         description='Differents options'
+                                         description='Different options'
                                          ' to select verses.')
     debug = parser.add_argument_group(title='Configuration',
                                       description=' Options for configuration'
@@ -40,9 +40,10 @@ def get_pam_argparse():
                        help='select an other forms folder',
                        type=str, default='')
     debug.add_argument('-S', '--save_output_format', nargs='+',
-                       help='save outpur in specific format file'
-                       ' \'csv\' or \'xslx\' or \'txt\'',
-                       choices=['csv', 'xslx', 'txt'], metavar='format',
+                       help='save output in a file with one of the '
+                       'following format'
+                       ' \'csv\' or \'xlsx\' or \'txt\'',
+                       choices=['csv', 'xlsx', 'txt'], metavar='format',
                        default=[])
     # debug.add_argument('-l', '--save_log_file', metavar='filename',
     #                    help='save command log in chosen file',
@@ -65,13 +66,15 @@ def get_pam_argparse():
                           ' the wanted meter',
                           type=int, default=[])
     selector.add_argument('-n', '--verse_number', nargs='+', metavar='numbers',
-                          help='select only verses by their numbers of line',
+                          help='select lines by their numbering',
                           type=int, default=[])
     selector.add_argument('-a', '--after_verse_number', metavar='number',
-                          help='select only verses under this number',
+                          help='select lines whose numbering is equal of '
+                          'higher to the number indicated',
                           type=int, default=-1)
     selector.add_argument('-b', '--before_verse_number', metavar='number',
-                          help='select only verses upper this number',
+                          help='select lines whose numbering is lower the '
+                          'number indicated',
                           type=int, default=-1)
     args = parser.parse_args()
     if args.not_cesure != [] and args.metrics == -1:

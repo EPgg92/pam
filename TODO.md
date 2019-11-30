@@ -1,0 +1,30 @@
+- GENERAL
+  - [ ] résoudre la suppression des consonnes + apostrophe.
+    - exemple : `de l'empereor` -> `de empereor`(mais pas de problème de métrification, bien sûr)
+  - [ ] éventuellement afficher aussi la ponctuation, sans que celle-ci ne soit pour autant calculée par le PAM. C'est juste de l'affichage pour l'utilisateur.
+- [X] -S (_Saving_)
+  - [X] XLSX
+    - [X] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant) [FONCTIONNE WTF]
+  - [ ] CSV
+    - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement {Whaow compliqué !}
+    - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
+- [ ] -NOT C
+  - [ ]implémenter l'inverse de la fonction d'affichage -c : permet de sélectionner tous les vers qui n'ont pas telle césure (très pratique pour le débuging linguistique : permet de sélectionner tous les vers m+1 qui n'ont pas de 4épC)
+- [X] Détails métrification
+  - [X] prévoir la gestion des rimes paroxytones en -tet (dans _roland_, p.ex.)
+    - [X] idée : réécrire ```0``` les rimes féminines (ce qui correspond mieux à la prosodie) et dire au PAM de ne pas compter le ```0``` en fin de ligne.
+  - [x] Césures
+    - [x] activer le calcule des césures pour les vers hypermétriques de deux positions (j'en ai besoin pour le paramétrage linguistique).
+    - Réponse : Tu vas dans ```global_var.py```
+- [x] BUGS que je ne comprends pas :
+  - [x] 4épC non calculée sur _as tables juent pur els esbaneier_ alors que _juent_ est bien taggé `2 0`. (roland, l. 111)
+    - les finales -ent déclenchent pourtant bien des 4épC, comme dans _cil li respunde or seit fait par marenes_ (l. 3977).
+    - est-ce que c'est dû au fait qu'il n'y a pas de consonne entre le `2` et le `0` ?
+    - en tout cas il faudrait corriger cela.
+  - [x]FORMS
+    - [x] J'ai dû retagger _altre_ dans `special_type` parce que, même une fois commentées les homographes dans tous les fichiers `forms`, il continuait à être taggé `1 0` alors qu'il devrait être `2 0`. Je ne comprends pas d'où vient ce bug.
+    - [x] Même chose sur _dejuste_.
+  - [x] 4épC non détectée sur _tutes les rues u li burgeis estunt_, à cause du -s ? On a prévu de détecter les 4épC quand le mot à la césure est au pluriel ? (_roland_, l. 2689)
+  - [x] 4épV non détectée sur _testute espaigne avrat carles en baillie_ (_roland_, l. 2719)
+  - [x] 4épC non détectée sur _plus de cent milιe s'en adubent ensemble_ (_roland_, l. 2998)
+- [ ] y a un probleme avec les variables statique de syllable lol

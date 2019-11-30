@@ -27,6 +27,782 @@ proechë:
   - es
   - chë
 
+#roland
+muer:
+  - mu
+  - er
+
+muers:
+  - mu
+  - ers
+
+muez:
+  - mu
+  - ez
+
+gabriel:
+  - ga
+  - bri
+  - el
+
+gabrιel:
+  - ga
+  - bri
+  - el
+
+luer:
+  - lu
+  - er
+
+chrestïen:
+  - chres
+  - tï
+  - en
+
+chrestïens:
+  - chres
+  - tï
+  - ens
+
+chrestιentet:
+  - chres
+  - tï
+  - en
+  - tet
+
+leun:
+  - le
+  - un
+
+leuns:
+  - le
+  - uns
+
+aluee:
+  - a
+  - lu
+  - e
+  - e
+
+otrιet:
+  - o
+  - tri
+  - et
+
+saluez:
+  - sa
+  - lu
+  - ez
+
+vιolees:
+  - vi
+  - o
+  - le
+  - es
+
+juer:
+  - ju
+  - er
+
+poent:
+  - po
+  - ent
+
+quιement:
+  - qui
+  - e
+  - ment
+
+proecces:
+  - pro
+  - ec
+  - ces
+
+capuel:
+  - ca
+  - pu
+  - el
+
+otrιer:
+  - o
+  - tri
+  - er
+
+danιel:
+  - da
+  - ni
+  - el
+
+cherιant:
+  - che
+  - ri
+  - ant
+
+samuel:
+  - sa
+  - mu
+  - el
+
+occιan:
+  - oc
+  - ci
+  - an
+
+ocιant:
+  - o
+  - ci
+  - ant
+
+quιad:
+  - qui
+  - ad
+
+marsiliun:
+  - mar
+  - si
+  - lιun
+
+marcilië:
+  - mar
+  - ci
+  - lιë
+
+marcilie:
+  - mar
+  - ci
+  - lιe
+
+marsilië:
+  - mar
+  - si
+  - lιë
+
+marsilie:
+  - mar
+  - si
+  - lιe
+
+marsile:
+  - mar
+  - si
+  - lιe
+
+marsillïes:
+  - mar
+  - sil
+  - lιes
+#Ici, on a un problème : pour une raison inconnue, le PAM double le "l" de Marsilies (l. 89, roland) et dote le "i" d'un tréma... Le placer ici ne corrige le phénomène qu'en surface.
+#Cela vient de la régex # "Vlies" -> "Vlïes"    &   "Vcries" -> "Vcrïes", qui fonctionne pour /li/ phonologique, pas pour la graphie <li> pour /ʎ/ en normand.
+
+marsilïes:
+  - mar
+  - si
+  - lιes
+
+martirie:
+  - mar
+  - ti
+  - rιe
+
+martirië:
+  - mar
+  - ti
+  - rιë
+
+matirie:
+  - ma
+  - ti
+  - rιe
+
+matirië:
+  - ma
+  - ti
+  - rιë
+
+matyrie:
+  - ma
+  - ty
+  - rιe
+
+matyrië:
+  - ma
+  - ty
+  - rιë
+
+martiries:
+  - mar
+  - ti
+  - rιes
+
+healmes:
+  - heal
+  - mes
+
+healmë:
+  - heal
+  - më
+
+healme:
+  - heal
+  - me
+
+basilië:
+  - ba
+  - si
+  - lιë
+
+basilie:
+  - ba
+  - si
+  - lιe
+
+basilïes:
+  - ba
+  - si
+  - lιes
+
+basillïes:
+  - ba
+  - si
+  - lιes
+#idem _marsillïes_.
+
+carcasonie:
+  - car
+  - ca
+  - so
+  - nιe
+
+carcasonië:
+  - car
+  - ca
+  - so
+  - nιë
+
+haltilie:
+  - hal
+  - ti
+  - lιe
+
+iloυec:
+  - i
+  - loec
+
+fiu:
+  - fiu
+
+giu:
+  - giu
+
+liez:
+  - lιez
+
+milie:
+  - mi
+  - lie
+
+milië:
+  - mi
+  - lië
+
+espiez:
+  - es
+  - piez
+
+avisiun:
+  - a
+  - vi
+  - siun
+
+munies:
+  - mu
+  - nιes
+
+canonies:
+  - ca
+  - \no
+  - nιes
+#Pour Enzo. L'échappement avec l'antislash ne marche pas, parce qu'il comprend le \ comme un vrai caractère. Le v. impliqué est dans Roland, numéro 2954.
+#Sinon, le yaml comprend l'opérateur booléen "no" (vs. yes).
+
+canonië:
+  - ca
+  - \no
+  - nιë
+
+canonie:
+  - ca
+  - \no
+  - nιe
+
+bramidonie:
+  - bra
+  - mi
+  - do
+  - nιe
+
+bramidonië:
+  - bra
+  - mi
+  - do
+  - nιë
+
+muriuns:
+  - mu
+  - riuns
+
+demenie:
+  - de
+  - me
+  - nιe
+
+demenië:
+  - de
+  - me
+  - nιë
+
+esparignas:
+  - es
+  - par
+  - ignas
+
+esparignet:
+  - es
+  - par
+  - ignet
+
+esparignat:
+  - es
+  - par
+  - ignat
+
+esparignez:
+  - es
+  - par
+  - ignez
+
+mier:
+  - mιer
+
+antonie:
+  - an
+  - to
+  - nιe
+
+antonië:
+  - an
+  - to
+  - nιë
+
+brunie:
+  - bru
+  - nιe
+
+brunië:
+  - bru
+  - nιë
+
+milie:
+  - mil
+  - ιe
+
+milië:
+  - mil
+  - ιë
+
+ies:
+  - ιes
+
+babilonie:
+  - ba
+  - bi
+  - lo
+  - nιe
+
+babilonië:
+  - ba
+  - bi
+  - lo
+  - nιë
+
+palïe:
+  - pa
+  - lιe
+
+palie:
+  - pa
+  - lιe
+
+palïë:
+  - pa
+  - lιë
+
+palië:
+  - pa
+  - lιë
+
+palïes:
+  - pa
+  - lιes
+#Pour les palïe : une regex (cf. marsilie) ajoute un tréma, mais elle est valable pour la plupart des mots. Ici, on overrule la regex pour un mot spécifique.
+# Explication : chez Roland, la graphie /li/ vaut ici pour /ʎ/, donc il ne s'agit pas du traitement de /li.e/ puisque c'est juste /ʎə/. C'est le mot _paille_.
+
+bronie:
+  - bro
+  - nιe
+
+bronië:
+  - bro
+  - nιë
+
+bronies:
+  - bro
+  - nιes
+
+fuus:
+  - fuus
+
+fiez:
+  - fiez
+
+suatilie:
+  - sua
+  - ti
+  - lιe
+
+suatilië:
+  - sua
+  - ti
+  - lιë
+
+avriumes:
+  - a
+  - vriu
+  - mes
+
+enveιet:
+  - en
+  - vei
+  - et
+
+algier:
+  - al
+  - gier
+
+sibilie:
+  - si
+  - bi
+  - lιe
+
+sibilië:
+  - si
+  - bi
+  - lιë
+
+sibilies:
+  - si
+  - bi
+  - lιes
+
+humeles:
+  - hume
+  - les
+
+moerium:
+  - moe
+  - rιum
+
+yvoeries:
+  - y
+  - voe
+  - rιes
+
+kartagene:
+  - kar
+  - ta
+  - gene
+
+raiet:
+  - ra
+  - ιet
+
+vieill:
+  - vieill
+
+revient:
+  - re
+  - vιent
+
+nobilie:
+  - \no
+  - bi
+  - lιe
+#Pb booléen yaml
+
+nobilië:
+  - \no
+  - bi
+  - lιë
+
+nobilies:
+  - \no
+  - bi
+  - lιes
+#Pb booléen yaml
+
+sardonie:
+  - sar
+  - do
+  - nιe
+
+sardonië:
+  - sar
+  - do
+  - nιë
+
+catainie:
+  - ca
+  - ta
+  - nιe
+
+catainië:
+  - ca
+  - ta
+  - nιë
+
+catainies:
+  - ca
+  - ta
+  - nιes
+
+cataignie:
+  - ca
+  - ta
+  - nιe
+
+cataignië:
+  - ca
+  - ta
+  - nιë
+
+cataignies:
+  - ca
+  - ta
+  - nιes
+
+poéz:
+  - poéz
+
+miez:
+  - miez
+
+gracιet:
+  - gra
+  - ci
+  - et
+
+bataillie:
+  - ba
+  - tail
+  - lιe
+
+bataillië:
+  - ba
+  - tail
+  - lιë
+
+bataillies:
+  - ba
+  - tail
+  - lιes
+
+virgilie:
+  - vir
+  - gi
+  - lιe
+
+virgilië:
+  - vir
+  - gi
+  - lιë
+
+navilie:
+  - na
+  - vi
+  - lιe
+
+navilië:
+  - na
+  - vi
+  - lιë
+
+navilies:
+  - na
+  - vi
+  - lιes
+
+navirie:
+  - na
+  - vi
+  - rιe
+
+navirië:
+  - na
+  - vi
+  - rιë
+
+naviries:
+  - na
+  - vi
+  - rιes
+
+sirie:
+  - si
+  - rιe
+
+sirië:
+  - si
+  - rιë
+
+timonie:
+  - ti
+  - mo
+  - nιe
+
+timonië:
+  - ti
+  - mo
+  - nιë
+
+timonies:
+  - ti
+  - mo
+  - nιes
+
+tierris:
+  - tιer
+  - ris
+
+tierri:
+  - tιer
+  - ri
+
+brunie:
+  - bru
+  - nιe
+
+brunië:
+  - bru
+  - nιë
+
+brunies:
+  - bru
+  - nιes
+
+canelius:
+  - ca
+  - ne
+  - lιus
+
+astrimonies:
+  - as
+  - tro
+  - mo
+  - nιes
+
+astrimonie:
+  - as
+  - tro
+  - mo
+  - nιe
+
+astrimonië:
+  - as
+  - tro
+  - mo
+  - nιë
+
+baptisterie:
+  - bap
+  - tis
+  - te
+  - rιe
+
+baptisterië:
+  - bap
+  - tis
+  - te
+  - rιë
+
+baptisteries:
+  - bap
+  - tis
+  - te
+  - rιes
+
+loυewis:
+  - loe
+  - wis
+
+voeiz:
+  - voeiz
+
+emperie:
+  - em
+  - pe
+  - rιe
+
+emperië:
+  - em
+  - pe
+  - rιë
+
+emperies:
+  - em
+  - pe
+  - rιes
+
+#end_roland
+
+deol:
+  - deol
+
+devient:
+  - de
+  - vιent
+
+grandonies:
+  - gran
+  - do
+  - nιes
+
+grandonie:
+  - gran
+  - do
+  - nιe
+
+grandonië:
+  - gran
+  - do
+  - nιë
+
+marmorie:
+  - mar
+  - mo
+  - rιe
+
+guiun:
+  - guiun
+
+valeri:
+  - va
+  - lerι
+
+#lιez:
+#  - li
+#  - ez
+#À rétablir hors Roland.
+
 proeche:
   - pro
   - es
@@ -533,7 +1309,7 @@ drueries:
 avoez:
   - a
   - vo
-  - ez 
+  - ez
 
 oez:
   - o
