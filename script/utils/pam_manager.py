@@ -149,6 +149,7 @@ class Pam_manager():
                 verse = dict_verses[number]
                 list_syll_word = [[s.text for s in w]
                                   for w in verse.verse_syll]
+                print(verse.verse_type)
                 self.dataframe[key].append(separe_list(verse.verse_type, '|'))
                 self.dataframe[key].append(separe_list(list_syll_word, ' '))
 
@@ -278,6 +279,36 @@ class Pam_manager():
         def get_max_list(dataframe):
             return max([len(l) for l in dataframe])
 
+        def create_lines_syll_meter(verse, len_max):
+            def flat_list(xlist):
+                ret = []
+                for x in xlist:
+                    ret.extend(x)
+                return ret
+
+            len_max *= 2
+            list_syll = flat_list([[s.text for s in w]
+                                   for w in verse.verse_syll])
+            list_type = flat_list(verse.verse_type)
+            len_syll_type = len(list_type)
+            i = 0
+            j = 0
+            ret_line_meter = []
+            ret_line_syll = []
+            minus = False
+            while j < len_max:
+                if i < len_syll_type and ((minus and list_type[i] < 0) or
+                                          (not minus and list_type[i] >= 0)):
+                    ret_line_meter.append(list_type[i])
+                    ret_line_syll.append(list_syll[i])
+                    i += 1
+                else:
+                    ret_line_meter.append('')
+                    ret_line_syll.append('')
+                j += 1
+                minus = not minus
+            return ret_line_meter, ret_line_syll
+
         for key in self.dataframe:
             dataframe = self.dataframe[key]
             len_max = get_max_list(dataframe)
@@ -291,10 +322,16 @@ class Pam_manager():
             verses = self.files[key][1]
             for num_verse in sorted(verses):
                 verse = verses[num_verse]
+                len_dataverse = len(dataframe[i])
+                dataframe[i], dataframe[i + 1] = create_lines_syll_meter(
+                    verse, len_max)
                 dataframe[i] += [''] + [verse.meter] + sorted(verse.cesure)
                 dataframe[i + 1] += [num_verse]
                 i += 2
-            col_name = ['syll_tag{}'.format(x) for x in range(len_max)]
+            col_name = []
+            for x in range(len_max):
+                col_name.append('syll_tag{}'.format(x + 1))
+                col_name.append('syll_tag{} -1'.format(x + 1))
             col_name += ['num_l', 'meter']
             if gv.METRICS in gv.DICT_CESURE:
                 col_name += ['ces_{}'.format(x) for x in
