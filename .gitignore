@@ -1,3 +1,6 @@
 __pycache__
 script/utils/__pycache__/*.pyc
 .DS_Store
+script/pam_output/*
+.~*.xlsx
+.$*.xlsx
