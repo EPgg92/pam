@@ -37,7 +37,7 @@ class Verse(Textual):
         self.str_verse_type = "|".join([w.str_word_type for w in self.words])
         self.meter = len(
             [y for x in self.words for y in x.word_type if y > -1])
-        if self.words != [] and self.words[-1].list_type[-1] == 0 :
+        if self.words != [] and self.words[-1].list_type[-1] == 0:
             self.meter -= 1
 
     def __set_dict_syll(self):
@@ -98,7 +98,6 @@ class Verse(Textual):
                         if words[i + 1].list_syll[0].text[0] in gv.VOWEL:
                             words[i].list_syll[-1].set_type(-1)
                             words[i].create_metrification()
-
             self.words = words
 
     def __e_posttonique(self, ents='e', repl_ents='ë'):
@@ -107,7 +106,7 @@ class Verse(Textual):
         words = self.words
         for i, _ in enumerate(words):
             if i != len(words) - 1 and words[i][-len_ents:] == ents and \
-             words[i + 1][0] in gv.CONSONNANT:
+                    words[i + 1][0] in gv.CONSONNANT:
                 words[i] = '{}{}'.format(words[i][:-len_ents], repl_ents)
         self.words = words
 
