@@ -31,6 +31,7 @@ class Verse(Textual):
 
     def update(self):
         """Update all attributes of the Verse."""
+        [w.get_list_type() for w in self.words]
         self.verse_syll = [w.list_syll for w in self.words]
         self.verse_type = [w.list_type for w in self.words]
         print("what", self.verse_type)
