@@ -33,6 +33,7 @@ class Verse(Textual):
         """Update all attributes of the Verse."""
         self.verse_syll = [w.list_syll for w in self.words]
         self.verse_type = [w.list_type for w in self.words]
+        print("what", self.verse_type)
         self.str_verse_syll = " ".join([w.str_word_syll for w in self.words])
         self.str_verse_type = "|".join([w.str_word_type for w in self.words])
         self.meter = len(
