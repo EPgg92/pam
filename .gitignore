@@ -4,3 +4,4 @@ script/utils/__pycache__/*.pyc
 script/pam_output/*
 .~*.xlsx
 .$*.xlsx
+.~*.xlsx#
