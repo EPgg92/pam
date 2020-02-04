@@ -22,7 +22,7 @@ class Word(Textual):
         self.__ierz()
         self.__get_list_syll()
         self.__in_list_atone()
-        self.__get_list_type()
+        self.get_list_type()
         self.create_metrification()
 
     def __in_list_atone(self):
@@ -248,7 +248,7 @@ class Word(Textual):
                 list_syll[-1].set_type(2)
         self.list_syll = list_syll
 
-    def __get_list_type(self):
+    def get_list_type(self):
         if self.text in gv.DICT_SPECIAL_TYPE:
             for i, type_syll in enumerate(gv.DICT_SPECIAL_TYPE[self.text]):
                 self.list_syll[i].set_type(type_syll)
