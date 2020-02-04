@@ -29,5 +29,5 @@
   - [x] 4épC non détectée sur _plus de cent milιe s'en adubent ensemble_ (_roland_, l. 2998)
 - [ ] y a un probleme avec les variables statique de syllable lol
 
-- [ ] FIX ./pam.py -f ../../pam_corpus/corpus/bestam100.txt -S csv -a 4 -b5;cat pam_output/bestam100.* ; rm -Rf pam_output/bestam100.*
+- [x] FIX ./pam.py -f ../../pam_corpus/corpus/bestam100.txt -S csv -a 4 -b5;cat pam_output/bestam100.* ; rm -Rf pam_output/bestam100.*
     - -1 missing in CSV and xlsx...
