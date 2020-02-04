@@ -7,7 +7,7 @@
     - [X] Réparer l'enregistrement en `.xlsx` (ne fonctionne pas pour l'instant) [FONCTIONNE WTF]
   - [ ] CSV
     - [ ] Repenser le système de séparateurs `|` pour ne pas perturber l'alignement {Whaow compliqué !}
-    - [ ] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
+    - [x] Penser à un système d'alignement par positions métriques plutôt que par syllabe graphique, qui permettrait de manipuler la table plus facilement (dans un tableur par exemple).
 - [x] -NOT C == -k
   - x ]implémenter l'inverse de la fonction d'affichage -c : permet de sélectionner tous les vers qui n'ont pas telle césure (très pratique pour le débuging linguistique : permet de sélectionner tous les vers m+1 qui n'ont pas de 4épC)
 - [X] Détails métrification
@@ -29,5 +29,5 @@
   - [x] 4épC non détectée sur _plus de cent milιe s'en adubent ensemble_ (_roland_, l. 2998)
 - [ ] y a un probleme avec les variables statique de syllable lol
 
-- [ ] FIX ./pam.py -f ../../pam_corpus/corpus/bestam100.txt -S csv -a 4 -b5;cat pam_output/bestam100.* ; rm -Rf pam_output/bestam100.*
+- [x] FIX ./pam.py -f ../../pam_corpus/corpus/bestam100.txt -S csv -a 4 -b5;cat pam_output/bestam100.* ; rm -Rf pam_output/bestam100.*
     - -1 missing in CSV and xlsx...
