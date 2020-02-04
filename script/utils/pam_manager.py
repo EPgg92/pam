@@ -129,6 +129,7 @@ class Pam_manager():
             _, dict_verses = self.files[key]
             for number in dict_verses:
                 dict_verses[number] = Verse(dict_verses[number], number)
+                # print(dict_verses[number])
 
     def __organize_in_tab(self):
         def separe_list(listtosep, sep=' '):
@@ -149,7 +150,7 @@ class Pam_manager():
                 verse = dict_verses[number]
                 list_syll_word = [[s.text for s in w]
                                   for w in verse.verse_syll]
-                print(verse.verse_type)
+                # print(verse.verse_type)
                 self.dataframe[key].append(separe_list(verse.verse_type, '|'))
                 self.dataframe[key].append(separe_list(list_syll_word, ' '))
 
