@@ -40,6 +40,25 @@ class Pam_manager():
         self.__get_stat_str()
         self.__save_in_file()
 
+        if pamargv.line_by_line_meter:
+            for f in self.files:
+                filename , dict_verse = self.files[f]
+                line_meter = [[line, dict_verse[line].meter, 
+                sorted(dict_verse[line].cesure)
+                ]  for line in dict_verse] 
+                pprint.pprint(line_meter)
+                basename, _ = os.path.splitext(os.path.basename(filename))
+                basename = basename + '_line_by_line_meter.txt' 
+                col = ['num_l', 'meter',
+                *[f'ces_{c[0]}' for c in line_meter[0][2]]
+                ]
+                line_meter = [[v[0], v[1],
+                                 *[c for c in v[2]]]
+                                  for v in line_meter]
+                df = pd.DataFrame(line_meter, columns=col)
+                df.to_csv(os.path.join('pam_output', basename),
+                          sep='\t', index=False)
+
     def __get_verces(self):
         def get_dict_verces(txt):
             dict_verces = {}
