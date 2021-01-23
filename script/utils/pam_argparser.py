@@ -45,6 +45,10 @@ def get_pam_argparse():
                        ' \'csv\' or \'xlsx\' or \'txt\'',
                        choices=['csv', 'xlsx', 'txt'], metavar='format',
                        default=[])
+    debug.add_argument('-L', '--line_by_line_meter',
+                       action='store_true',
+                       help='Create a line by line meter text file',
+                       default = False)
     # debug.add_argument('-l', '--save_log_file', metavar='filename',
     #                    help='save command log in chosen file',
     #                    type=argparse.FileType('a+'),
