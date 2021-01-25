@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Initialisation of all globals varaibles."""
+"""Initialisation of all globals variables."""
 
 import os
 
